@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Keyboard1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Keyboard1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(60.000000, 60.000000) rotate(45.000000) translate(-60.000000, -60.000000) translate(0.000000, 43.000000)" fill-rule="nonzero">
+            <path d="M115.416393,33.8427746 L4.60327869,33.8427746 C2.1442623,33.8427746 0.157377049,31.8578035 0.157377049,29.4011561 L0.157377049,4.59884393 C0.157377049,2.14219653 2.1442623,0.157225434 4.60327869,0.157225434 L115.436066,0.157225434 C117.895082,0.157225434 119.881967,2.14219653 119.881967,4.59884393 L119.881967,29.4011561 C119.862295,31.8578035 117.87541,33.8427746 115.416393,33.8427746 Z" id="Shape" fill="#FD653F"></path>
+            <path d="M115.416393,31.8774566 L4.60327869,31.8774566 C2.1442623,31.8774566 0.157377049,29.8924855 0.157377049,27.4358382 L0.157377049,29.4011561 C0.157377049,31.8578035 2.1442623,33.8427746 4.60327869,33.8427746 L115.436066,33.8427746 C117.895082,33.8427746 119.881967,31.8578035 119.881967,29.4011561 L119.881967,27.4358382 C119.862295,29.8924855 117.87541,31.8774566 115.416393,31.8774566 Z" id="Shape" fill="#E05A38"></path>
+            <g transform="translate(3.934426, 14.936416)" id="Rectangle-path">
+                <g>
+                    <rect fill="#FFFFFF" x="0.0590163934" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="4.74098361" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="9.42295082" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="14.104918" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="18.7868852" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="23.4688525" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="28.1508197" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="32.8327869" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#575757" x="3.0295082" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="7.73114754" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="12.4327869" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="17.1147541" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="21.8163934" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="26.5180328" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="31.2" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                </g>
+                <g transform="translate(37.573770, 0.000000)">
+                    <rect fill="#FFFFFF" x="0.0590163934" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="4.74098361" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="9.42295082" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="14.104918" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="18.7868852" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="23.4688525" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="28.1704918" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="32.852459" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#575757" x="3.04918033" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="7.73114754" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="12.4327869" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="17.1344262" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="21.8163934" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="26.5180328" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="31.2" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                </g>
+                <g transform="translate(75.147541, 0.000000)">
+                    <rect fill="#FFFFFF" x="0.0590163934" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="4.74098361" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="9.42295082" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="14.104918" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="18.7868852" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="23.4885246" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="28.1704918" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#FFFFFF" x="32.852459" y="0.0786127168" width="4.11147541" height="15.0543353"></rect>
+                    <rect fill="#575757" x="3.04918033" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="7.73114754" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="12.4327869" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="17.1344262" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="21.8163934" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="26.5180328" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                    <rect fill="#575757" x="31.2196721" y="0.0786127168" width="2.79344262" height="9.29595376"></rect>
+                </g>
+            </g>
+            <path d="M20.2229508,10.1606936 L7.61311475,10.1606936 C5.60655738,10.1606936 3.97377049,8.52947977 3.97377049,6.52485549 C3.97377049,4.52023121 5.60655738,2.88901734 7.61311475,2.88901734 L20.2229508,2.88901734 C22.2295082,2.88901734 23.8622951,4.52023121 23.8622951,6.52485549 C23.8622951,8.52947977 22.2295082,10.1606936 20.2229508,10.1606936 Z" id="Shape" fill="#9C3E27"></path>
+            <ellipse id="Oval" fill="#9C3E27" cx="29.4688525" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="35.1344262" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="40.8196721" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="46.504918" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="52.1704918" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="57.8557377" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="63.5409836" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="69.2262295" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="74.8918033" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="80.5770492" cy="6.52485549" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="86.8131148" cy="3.8716763" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="86.8131148" cy="8.62774566" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="92.6163934" cy="3.8716763" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="92.6163934" cy="8.62774566" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="98.4196721" cy="3.8716763" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="98.4196721" cy="8.62774566" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="104.203279" cy="3.8716763" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="104.203279" cy="8.62774566" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="110.006557" cy="3.8716763" rx="1" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#9C3E27" cx="110.006557" cy="8.62774566" rx="1" ry="1"></ellipse>
+        </g>
+    </g>
+</svg>

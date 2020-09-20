@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Game element6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0021 92.724 0.0021 92.724 120 0 120"></polygon>
+    </defs>
+    <g id="Game-element6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(14.000000, -1.000000)">
+            <g id="Group-3" transform="translate(0.000000, 0.998000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M92.7243,120.0001 L92.7243,40.3721 C92.7243,18.0781 74.6523,0.0021 52.3533,0.0021 L40.3723,0.0021 C18.0763,0.0021 -0.0007,18.0781 -0.0007,40.3721 L-0.0007,120.0001 L11.7243,108.2781 L23.1833,120.0001 L34.4603,108.2781 L46.3653,120.0001 L58.0363,108.2781 L69.5443,120.0001 L80.8743,108.2781 L92.7243,120.0001 Z" id="Fill-1" fill="#E35A00" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M40.2799,48.4532 C40.2799,55.5892 34.4929,61.3762 27.3589,61.3762 C20.2199,61.3762 14.4339,55.5892 14.4339,48.4532 C14.4339,41.3142 20.2199,35.5292 27.3589,35.5292 C34.4929,35.5292 40.2799,41.3142 40.2799,48.4532" id="Fill-4" fill="#FFFFFF"></path>
+            <path d="M78.2916,48.4532 C78.2916,55.5892 72.5046,61.3762 65.3656,61.3762 C58.2296,61.3762 52.4436,55.5892 52.4436,48.4532 C52.4436,41.3142 58.2296,35.5292 65.3656,35.5292 C72.5046,35.5292 78.2916,41.3142 78.2916,48.4532" id="Fill-6" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

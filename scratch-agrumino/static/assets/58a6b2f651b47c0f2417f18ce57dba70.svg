@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="360px" viewBox="0 0 480 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Swimming pool3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.464685542 741.925707 0.464685542 741.925707 229.783977 0 229.783977"></polygon>
+    </defs>
+    <g id="Swimming-pool3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Fill-1" fill="#B2DFF6" points="-98 359 577 359 577 -316 -98 -316"></polygon>
+        <polygon id="Fill-2" fill="#40AC7D" points="-98 359 577 359 577 -20 -98 -20"></polygon>
+        <g id="Group-10" transform="translate(-132.000000, 89.000000)">
+            <path d="M371,0 C520.631843,0 654.203345,45.2770089 742,116.174551 L742,270 L0,270 L0,116.174551 C87.7966547,45.2770089 221.367229,0 371,0" id="Fill-3" fill="#31986A"></path>
+            <path d="M371,17 C528.841967,17 666.852,64.5387458 742,135.452789 L742,270 L0,270 L0,135.452789 C75.1479998,64.5387458 213.157106,17 371,17" id="Fill-5" fill="#51A7D8"></path>
+            <g id="Group-9" transform="translate(0.000000, 40.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <path d="M741.925707,128.555092 L741.925707,229.783977 L-9.27500001e-05,229.783977 L-9.27500001e-05,128.555092 C63.9389748,53.0136896 205.988382,0.464685542 370.962807,0.464685542 C535.937232,0.464685542 677.98664,53.0136896 741.925707,128.555092" id="Fill-7" fill="#368CBC" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Grass2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ALL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Grass2">
+            <g id="Group-152" transform="translate(0.000000, 60.000000)">
+                <path d="M54.478481,0.751898734 C71.8420253,0.751898734 85.918481,14.8298734 85.918481,32.1918987 L23.038481,32.1918987 C23.038481,14.8298734 37.1149367,0.751898734 54.478481,0.751898734" id="Fill-322" fill="#94A948"></path>
+                <path d="M23.038481,10.1939241 C35.1873418,10.1939241 45.0364557,20.043038 45.0364557,32.1918987 L1.03898734,32.1918987 C1.03898734,20.043038 10.8881013,10.1939241 23.038481,10.1939241" id="Fill-323" fill="#AAC354"></path>
+                <path d="M107.77519,20.9103797 C114.007595,20.9103797 119.058228,25.9610127 119.058228,32.1918987 L96.4906329,32.1918987 C96.4906329,25.9610127 101.545823,20.9103797 107.77519,20.9103797" id="Fill-324" fill="#AAC354"></path>
+            </g>
+        </g>
+    </g>
+</svg>

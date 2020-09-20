@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Diamond3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0258 0 107.6898 0 107.6898 53.8506 0.0258 53.8506"></polygon>
+        <polygon id="path-3" points="0.8512 0.0001 54.715 0.0001 54.715 107.6781 0.8512 107.6781"></polygon>
+    </defs>
+    <g id="Diamond3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(6.000000, 0.000000)">
+            <polygon id="Fill-1" fill="#00B4C8" points="53.8506 0.0003 -0.0004 53.8273 0.0116 53.8513 0.0256 53.8513 53.8506 107.6783 107.6896 53.8513 107.7156 53.8273 64.6326 10.7683 53.8646 0.0003"></polygon>
+            <g id="Group-8">
+                <g id="Group-4">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-3"></g>
+                    <polygon id="Fill-2" fill="#FFFFFF" opacity="0.3" mask="url(#mask-2)" points="107.6898 53.8506 0.0258 53.8506 53.8508 0.0116 53.8648 -0.0004 64.6318 10.7676"></polygon>
+                </g>
+                <g id="Group-7" transform="translate(53.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <polygon id="Fill-5" fill="#FFFFFF" opacity="0.3" mask="url(#mask-4)" points="54.7152 53.8271 54.6902 53.8501 0.8512 107.6781 0.8512 0.0001 0.8642 0.0001 11.6322 10.7671"></polygon>
+                </g>
+            </g>
+            <polygon id="Fill-9" fill="#E1E1E1" points="39.814 101.061 67.892 101.061 67.892 93.644 39.814 93.644"></polygon>
+            <polygon id="Fill-10" fill="#4C311A" points="24.725 120 82.752 120 82.752 101.06 24.725 101.06"></polygon>
+            <g id="Group-17" transform="translate(53.000000, 18.000000)" fill="#FFFFFF">
+                <polygon id="Fill-11" opacity="0.3" points="29.7523 83.0605 29.7523 101.9995 0.7383 101.9995 0.7383 75.6435 14.8923 75.6435 14.8923 83.0605"></polygon>
+                <path d="M33.6497,22.417 C34.4907,23.258 34.4907,24.618 33.6497,25.459 C32.8107,26.298 31.4507,26.298 30.6097,25.457 L9.3287,4.176 C8.4897,3.337 8.4897,1.978 9.3287,1.138 C10.1697,0.297 11.5297,0.297 12.3687,1.136 L33.6497,22.417 Z" id="Fill-13"></path>
+                <path d="M40.4329,29.75 C40.4329,31.014 39.4079,32.042 38.1409,32.042 C36.8739,32.042 35.8489,31.014 35.8489,29.75 C35.8489,28.483 36.8739,27.455 38.1409,27.455 C39.4079,27.455 40.4329,28.483 40.4329,29.75" id="Fill-15"></path>
+            </g>
+        </g>
+    </g>
+</svg>

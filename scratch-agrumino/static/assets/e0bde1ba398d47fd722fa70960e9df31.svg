@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="360px" viewBox="0 0 480 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Snow land1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#DBF8FF" offset="0%"></stop>
+            <stop stop-color="#B5EBFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Snow-land1" fill-rule="nonzero">
+            <g id="温度计-冷-copy-2" transform="translate(-35.000000, -15.000000)">
+                <rect id="Path" fill="#FFCBB0" x="17.0117188" y="0" width="520" height="390"></rect>
+                <rect id="Path-Copy-2" fill="#FFFFFF" x="17.0117188" y="0" width="520" height="390"></rect>
+                <rect id="Path-Copy-3" fill="#66D5FF" x="17.0117188" y="0" width="520" height="390"></rect>
+                <rect id="Path-Copy-4" fill="url(#linearGradient-1)" x="17.0117188" y="263.046875" width="520" height="126.953125"></rect>
+                <g id="Group-2" transform="translate(0.000000, 135.585938)">
+                    <g id="Group-3">
+                        <polygon id="Triangle" fill="#81DDFF" points="95.9765625 8.6328125 155.390625 127.460938 36.5625 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-8" fill="#81DDFF" points="40.1171875 47.2265625 80.234375 127.460938 0 127.460938"></polygon>
+                        <polygon id="Triangle-Copy" fill="#3FC9FE" points="155.390625 47.2265625 195.507812 127.460938 115.273438 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-2" fill="#81DDFF" points="202.871094 47.2265625 242.988281 127.460938 162.753906 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-9" fill="#81DDFF" points="255.9375 65.5078125 286.914062 127.460938 224.960938 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-3" fill="#3FC9FE" points="317.636719 47.2265625 357.753906 127.460938 277.519531 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-4" fill="#81DDFF" points="374.003906 0 437.734375 127.460938 310.273438 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-5" fill="#3FC9FE" points="510.859375 47.2265625 550.976562 127.460938 470.742188 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-6" fill="#3FC9FE" points="422.246094 47.2265625 462.363281 127.460938 382.128906 127.460938"></polygon>
+                        <polygon id="Triangle-Copy-7" fill="#81DDFF" points="464.394531 47.2265625 504.511719 127.460938 424.277344 127.460938"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

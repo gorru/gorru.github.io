@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>airblock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.0751,3.576 C0.0021,5.6666 2.9852,7.4676 6.738,7.5986 C10.4908,7.7297 13.5922,6.1412 13.6652,4.0505 C13.7383,1.96 10.7551,0.159 7.0024,0.028 C6.8574,0.0229 6.7132,0.0204 6.5703,0.0204 C3.0142,0.0204 0.1453,1.5662 0.0751,3.576 Z" id="path-1"></path>
+        <path d="M0.0751,3.576 C0.0021,5.6666 2.9852,7.4676 6.738,7.5986 C10.4908,7.7297 13.5922,6.1412 13.6652,4.0505 C13.7383,1.96 10.7551,0.159 7.0024,0.028 C6.8574,0.023 6.7131,0.0204 6.5703,0.0204 C3.0142,0.0204 0.1453,1.5662 0.0751,3.576 Z" id="path-3"></path>
+        <path d="M0.0643,1.7547 C-0.0098,3.8796 3.0221,5.7102 6.8365,5.8434 C10.6507,5.9766 13.8031,4.362 13.8772,2.2371 C13.8986,1.6278 13.6645,1.0429 13.2298,0.5151 C12.0595,1.7494 9.6757,2.5436 6.955,2.4486 C4.2344,2.3536 1.9117,1.3951 0.8304,0.0821 C0.36,0.5783 0.0855,1.1455 0.0643,1.7547 Z" id="path-5"></path>
+        <polygon id="path-7" points="0.0151 2.931 1.9119 6.9685 10.3979 8.4751 17.0199 6.37 16.1626 2.2864 7.1432 0.0516"></polygon>
+        <path d="M6.2521,0.0998 C6.2482,0.2111 0.0795,2.2617 0.0795,2.2617 L2.5555,6.4482 L11.0108,8.2235 L17.2154,6.6209 L15.0954,2.4818 C15.0954,2.4818 6.6381,0.0962 6.2647,0.0962 C6.2565,0.0962 6.2521,0.0974 6.2521,0.0998 Z" id="path-9"></path>
+        <polygon id="path-11" points="0.0145 3.7967 1.7416 9.0319 10.8836 11.2301 18.1774 7.6557 17.2945 2.2948 8.5282 0.0445"></polygon>
+        <polygon id="path-13" points="0.0077 2.9622 0.1443 7.0117 8.7727 3.2644 8.8426 0.0307"></polygon>
+        <polygon id="path-15" points="0.0455 3.2922 8.7779 5.6009 9.0221 2.4379 0.1489 0.0323"></polygon>
+        <path d="M0.0069,3.7217 L0.8574,7.7632 L9.1403,9.2019 C9.1403,9.2019 16.4504,5.8268 16.7548,5.6993 C16.5763,5.694 16.528,1.4678 16.528,1.4678 L7.3342,0.052 L0.0069,3.7217 Z M16.7548,5.6993 C16.757,5.6993 16.7592,5.6988 16.7614,5.6976 C16.7639,5.6963 16.7649,5.6956 16.7645,5.6956 C16.7639,5.6956 16.7607,5.6968 16.7548,5.6993 Z" id="path-17"></path>
+        <polygon id="path-19" points="0.098 2.0543 1.2402 5.1651 8.1943 6.1756 15.2615 4.1596 15.3567 1.4319 6.9472 0.0052"></polygon>
+        <polygon id="path-21" points="0.0384 1.7495 1.7363 4.8159 9.0132 6.1873 15.3383 4.6452 14.151 1.5608 6.0207 0.0987"></polygon>
+        <polygon id="path-23" points="0.0975 3.1563 0.9213 8.5934 10.1347 9.8876 9.8163 6.9252 1.9175 5.2228 0.4111 0.0527"></polygon>
+        <path d="M0.0443,4.1717 C-0.0405,6.6005 3.0577,8.68 6.9643,8.8165 C10.8709,8.9528 14.1065,7.0946 14.1913,4.6658 C14.2762,2.237 11.178,0.1575 7.2713,0.021 C7.1364,0.0163 7.0015,0.014 6.8683,0.014 C3.1443,0.0138 0.1262,1.8269 0.0443,4.1717 Z" id="path-25"></path>
+        <path d="M0.0443,4.1717 C-0.0405,6.6005 3.0577,8.68 6.9643,8.8165 C10.8709,8.9528 14.1065,7.0946 14.1913,4.6658 C14.2762,2.237 11.178,0.1575 7.2713,0.021 C7.1363,0.0164 7.0015,0.014 6.8683,0.014 C3.1443,0.0137 0.1262,1.8269 0.0443,4.1717 Z" id="path-27"></path>
+        <path d="M0.0188,2.0445 C-0.0675,4.5166 3.0859,6.6332 7.0623,6.7721 C11.0387,6.9109 14.3322,5.0194 14.4185,2.5473 C14.4444,1.8063 14.1792,1.0973 13.6881,0.464 C12.4401,1.8602 9.9904,2.7586 7.2059,2.6613 C4.4214,2.5641 2.0403,1.497 0.8928,0.0171 C0.3586,0.6147 0.0446,1.3035 0.0188,2.0445 Z" id="path-29"></path>
+        <path d="M0.0853,2.2028 C-0.1343,3.7659 2.2686,5.3958 5.4523,5.8432 C8.6361,6.2907 11.395,5.3863 11.6147,3.8231 C11.8344,2.2601 9.4316,0.6303 6.2478,0.1828 C5.6966,0.1053 5.1577,0.0684 4.6428,0.0683 C2.1844,0.0683 0.267,0.9104 0.0853,2.2028 Z" id="path-31"></path>
+        <path d="M0.0853,2.2028 C-0.1343,3.7659 2.2686,5.3958 5.4523,5.8432 C8.6361,6.2907 11.395,5.3863 11.6147,3.8231 C11.8344,2.2601 9.4316,0.6303 6.2478,0.1828 C5.6965,0.1053 5.1577,0.0684 4.6428,0.0684 C2.1844,0.0683 0.267,0.9104 0.0853,2.2028 Z" id="path-33"></path>
+        <path d="M0.0853,2.2028 C-0.1343,3.7659 2.2686,5.3958 5.4523,5.8432 C8.6361,6.2907 11.395,5.3863 11.6147,3.8231 C11.8344,2.2601 9.4316,0.6303 6.2478,0.1828 C5.6966,0.1053 5.1577,0.0684 4.6428,0.0683 C2.1844,0.0683 0.267,0.9104 0.0853,2.2028 Z" id="path-35"></path>
+        <path d="M0.0547,1.4742 C-0.1701,3.0728 2.2875,4.7397 5.5436,5.1974 C8.7998,5.655 11.6215,4.73 11.8462,3.1314 C11.9028,2.7285 11.7891,2.3212 11.5352,1.9301 C10.3811,2.6111 8.4422,2.9007 6.3187,2.6023 C3.8831,2.26 1.8943,1.2411 1.1407,0.0803 C0.5251,0.4436 0.1328,0.9181 0.0547,1.4742 Z" id="path-37"></path>
+        <path d="M6.5968,0.0405 C2.9435,0.1043 0.0065,1.5676 0.0369,3.3091 C0.0672,5.0505 3.0536,6.4105 6.7069,6.3468 C10.3604,6.283 13.2973,4.8196 13.267,3.0782 C13.2372,1.3761 10.3835,0.0384 6.8431,0.0383 C6.7613,0.0383 6.6793,0.039 6.5968,0.0405 Z" id="path-39"></path>
+        <path d="M6.5968,0.0405 C2.9435,0.1043 0.0065,1.5676 0.0369,3.3091 C0.0672,5.0505 3.0536,6.4105 6.7069,6.3468 C10.3604,6.283 13.2973,4.8196 13.267,3.0782 C13.2372,1.3761 10.3835,0.0384 6.8431,0.0383 C6.7613,0.0383 6.6794,0.039 6.5968,0.0405 Z" id="path-41"></path>
+        <path d="M0.0286,1.7967 C0.0595,3.5667 3.0949,4.949 6.8083,4.8842 C10.5217,4.8194 13.507,3.332 13.4762,1.5619 C13.4697,1.1937 13.3333,0.8422 13.0877,0.5171 C11.9039,1.4166 9.8359,2.0337 7.4734,2.0749 C4.5324,2.1262 2.0167,1.2699 1.082,0.0322 C0.4052,0.5464 0.0175,1.1528 0.0286,1.7967 Z" id="path-43"></path>
+        <path d="M0.0196,1.9717 C-0.0211,3.14 2.2649,4.1681 5.1256,4.268 C7.9864,4.3679 10.3385,3.5018 10.3794,2.3335 C10.4201,1.1652 8.1341,0.1373 5.2733,0.0374 C5.1228,0.0321 4.9733,0.0295 4.8258,0.0295 C2.1711,0.0294 0.0583,0.865 0.0196,1.9717 Z" id="path-45"></path>
+        <path d="M0.0388,2.253 C-0.0063,3.5443 2.2514,4.6712 5.0814,4.77 C7.9113,4.8688 10.242,3.9021 10.2871,2.6109 C10.3322,1.3196 8.0746,0.1928 5.2446,0.0939 C5.1113,0.0893 4.9788,0.087 4.8478,0.087 C2.1998,0.0869 0.0819,1.0226 0.0388,2.253 Z" id="path-47"></path>
+        <path d="M0.0388,2.253 C-0.0063,3.5443 2.2514,4.6712 5.0814,4.77 C7.9113,4.8688 10.242,3.9021 10.2871,2.6109 C10.3322,1.3196 8.0746,0.1928 5.2446,0.0939 C5.1112,0.0893 4.9788,0.087 4.8478,0.087 C2.1998,0.0869 0.0818,1.0226 0.0388,2.253 Z" id="path-49"></path>
+        <path d="M0.0088,0.8541 C-0.033,2.0476 2.3023,3.0977 5.2245,3.1997 C8.1469,3.3017 10.5495,2.417 10.5912,1.2236 C10.6019,0.9207 10.4592,0.6271 10.1927,0.3558 C9.3558,1.0967 7.4647,1.57 5.284,1.4938 C3.1036,1.4177 1.25,0.8136 0.4668,0.0161 C0.182,0.2682 0.0193,0.5512 0.0088,0.8541 Z" id="path-51"></path>
+        <path d="M0.0509,1.928 C0.0112,3.0655 2.1734,4.0644 4.8804,4.1589 C7.5873,4.2534 9.814,3.4078 9.8536,2.2703 C9.8934,1.1327 7.7311,0.134 5.0242,0.0395 C4.8857,0.0346 4.7483,0.0323 4.6126,0.0323 C2.095,0.0322 0.0886,0.8486 0.0509,1.928 Z" id="path-53"></path>
+        <path d="M0.0509,1.928 C0.0112,3.0655 2.1734,4.0644 4.8804,4.1589 C7.5873,4.2534 9.814,3.4078 9.8536,2.2703 C9.8934,1.1327 7.7311,0.134 5.0242,0.0395 C4.8858,0.0346 4.7483,0.0323 4.6126,0.0323 C2.095,0.0322 0.0886,0.8487 0.0509,1.928 Z" id="path-55"></path>
+        <path d="M0.0398,1.4159 C-0.0008,2.5793 2.2105,3.6007 4.979,3.6974 C7.7475,3.794 10.0247,2.9293 10.0653,1.766 C10.0783,1.3945 9.8617,1.0375 9.4706,0.7204 C8.5354,1.1406 7.1585,1.3794 5.6321,1.3262 C3.7477,1.2604 2.1212,0.7661 1.2877,0.0901 C0.5265,0.4321 0.0581,0.8939 0.0398,1.4159 Z" id="path-57"></path>
+        <path d="M6.527,0.064 L0.2689,2.4163 C0.2088,2.4388 0.1583,2.4814 0.1261,2.537 C0.0489,2.6702 0.0942,2.8405 0.2271,2.9178 L2.2972,4.1189 C2.3671,4.1595 2.4513,4.1677 2.5278,4.1413 L8.7126,2.0085 C8.7676,1.9895 8.8152,1.9539 8.8488,1.9066 C8.938,1.7812 8.9087,1.6074 8.7833,1.5182 L6.7864,0.0978 C6.7386,0.0638 6.6821,0.0462 6.625,0.0462 C6.592,0.0462 6.5588,0.0521 6.527,0.064 Z" id="path-59"></path>
+        <path d="M0.0142,3.0559 C-0.0481,4.8391 2.3951,6.3717 5.4712,6.4792 C8.5473,6.5865 11.0914,5.2281 11.1536,3.445 C11.2159,1.6618 8.7728,0.1292 5.6966,0.0217 C5.5825,0.0178 5.469,0.0158 5.3564,0.0158 C2.4351,0.0158 0.0742,1.3389 0.0142,3.0559 Z" id="path-61"></path>
+        <path d="M0.038,1.3831 C0.0095,2.1979 1.3696,2.9066 3.0758,2.9662 C4.7821,3.0258 6.1882,2.4136 6.2168,1.5988 C6.2451,0.7841 4.8851,0.0754 3.1789,0.0158 C3.1021,0.0131 3.0259,0.0118 2.9505,0.0118 C1.3488,0.0118 0.0652,0.605 0.038,1.3831 Z" id="path-63"></path>
+        <path d="M0.0944,2.674 C0.0407,4.2113 2.1417,5.5323 4.7871,5.6247 C7.4325,5.7171 9.6206,4.5458 9.6743,3.0086 C9.728,1.4715 7.6269,0.1503 4.9815,0.058 C4.8837,0.0546 4.7861,0.0529 4.6896,0.0529 C2.1769,0.0528 0.1461,1.1938 0.0944,2.674 Z" id="path-65"></path>
+        <path d="M0.0678,3.0667 C0.0055,4.8518 2.6481,6.3929 5.9702,6.5089 C9.2924,6.6249 12.0361,5.2719 12.0985,3.4868 C12.1607,1.7018 9.5182,0.1607 6.196,0.0447 C6.063,0.04 5.9308,0.0377 5.7997,0.0377 C2.6583,0.0377 0.1276,1.3531 0.0678,3.0667 Z" id="path-67"></path>
+        <path d="M0.0482,2.145 C-0.1318,3.6105 1.8275,5.0571 4.4242,5.376 C7.021,5.6948 9.272,4.7652 9.4519,3.2996 C9.6319,1.834 7.6728,0.3874 5.0759,0.0687 C4.7313,0.0264 4.3926,0.006 4.0642,0.006 C1.918,0.0059 0.2044,0.8739 0.0482,2.145 Z" id="path-69"></path>
+        <path d="M0.0857,1.8845 C0.0671,2.9511 1.584,3.8425 3.4738,3.8755 C5.3636,3.9085 6.9107,3.0705 6.9293,2.0039 C6.9481,0.9373 5.431,0.046 3.5413,0.013 C3.5053,0.0123 3.4691,0.012 3.4334,0.012 C1.5928,0.012 0.1039,0.8383 0.0857,1.8845 Z" id="path-71"></path>
+        <polygon id="path-73" points="0.0855 0.4267 4.3223 2.8348 4.9156 2.276 1.3771 0.0524"></polygon>
+        <polygon id="path-75" points="0.0004 2.4016 0.812 2.5614 2.6479 0.197 1.8812 0.0993"></polygon>
+        <polygon id="path-77" points="0.064 3.4855 1.3898 4.0363 4.2776 0.5356 3.1729 0.0856"></polygon>
+        <polygon id="path-79" points="0.0794 0.3551 0.2598 1.4407 6.8751 1.1317 6.8597 0.0755"></polygon>
+        <path d="M0.0898,0.821 C0.0734,1.2882 0.7086,1.6896 1.5083,1.7175 C2.3082,1.7455 2.9697,1.3893 2.9861,0.9221 C3.0023,0.4549 2.3673,0.0535 1.5675,0.0256 C1.538,0.0246 1.5088,0.0241 1.4797,0.0241 C0.7198,0.0241 0.1054,0.3709 0.0898,0.821 Z" id="path-81"></path>
+        <path d="M0.074,0.629 C0.0611,0.9979 0.5743,1.3152 1.2203,1.3378 C1.8663,1.3604 2.4004,1.0796 2.4133,0.7107 C2.4261,0.3417 1.9129,0.0245 1.2669,0.0018 C1.2427,0.001 1.2185,0.0005 1.1946,0.0005 C0.5815,0.0005 0.0864,0.2739 0.074,0.629 Z" id="path-83"></path>
+        <path d="M0.0355,0.4827 C0.0257,0.7594 0.417,0.9977 0.9091,1.0148 C1.4012,1.032 1.8081,0.8216 1.8177,0.545 C1.8275,0.2682 1.4362,0.03 0.9441,0.0128 C0.9253,0.0122 0.9066,0.0118 0.8879,0.0118 C0.4213,0.0118 0.0447,0.2166 0.0355,0.4827 Z" id="path-85"></path>
+        <polygon id="path-87" points="0.2628 0.3757 0.0054 1.1255 5.057 0.7876 5.0841 0.0133"></polygon>
+        <path d="M2.2286,0.2064 C2.2149,0.5981 1.6603,0.8966 0.9898,0.8731 C0.6337,0.8607 0.3163,0.7599 0.0992,0.6094 C0.2327,0.9123 0.6938,1.1469 1.2497,1.1663 C1.9202,1.1898 2.4748,0.8912 2.4884,0.4995 C2.4949,0.3159 2.3813,0.1445 2.1897,0.0116 C2.2173,0.0741 2.2309,0.1395 2.2286,0.2064 Z" id="path-89"></path>
+        <path d="M1.782,0.2246 C1.7705,0.5555 1.3291,0.8087 0.7962,0.7901 C0.513,0.7801 0.261,0.6956 0.0887,0.5688 C0.1943,0.8243 0.5603,1.0218 1.0022,1.0372 C1.5351,1.0558 1.9766,0.8027 1.9881,0.4717 C1.9936,0.3167 1.9035,0.172 1.7515,0.0602 C1.7732,0.1128 1.784,0.1681 1.782,0.2246 Z" id="path-91"></path>
+        <path d="M1.333,0.1732 C1.3252,0.3938 0.9886,0.5611 0.5811,0.5468 C0.3647,0.5394 0.1716,0.482 0.0394,0.397 C0.1211,0.5678 0.4017,0.7005 0.7395,0.7124 C1.1471,0.7266 1.4836,0.5593 1.4914,0.3387 C1.495,0.2353 1.4257,0.1386 1.309,0.0635 C1.326,0.0986 1.3343,0.1356 1.333,0.1732 Z" id="path-93"></path>
+        <polygon id="path-95" points="0.0933 0.89 4.8354 3.0376 6.0783 2.3905 1.1411 0.0473"></polygon>
+        <path d="M0.0652,0.925 C0.0652,1.3924 0.7349,1.7714 1.561,1.7714 C2.387,1.7714 3.0568,1.3924 3.0568,0.925 C3.0568,0.4576 2.387,0.0787 1.561,0.0787 C0.7349,0.0787 0.0652,0.4576 0.0652,0.925 Z" id="path-97"></path>
+        <path d="M0.0977,0.7673 C0.0977,1.1672 0.6467,1.4914 1.3238,1.4914 C2.001,1.4914 2.5499,1.1672 2.5499,0.7673 C2.5499,0.3674 2.001,0.0431 1.3238,0.0431 C0.6467,0.0431 0.0977,0.3674 0.0977,0.7673 Z" id="path-99"></path>
+        <path d="M0.0498,0.5124 C0.0498,0.7586 0.3742,0.9581 0.7743,0.9581 C1.1744,0.9581 1.4989,0.7586 1.4989,0.5124 C1.4989,0.2663 1.1744,0.0669 0.7743,0.0669 C0.3742,0.0669 0.0498,0.2663 0.0498,0.5124 Z" id="path-101"></path>
+        <path d="M0.0672,0.5203 C0.0672,0.9122 0.6286,1.2299 1.3212,1.2299 C1.8953,1.2299 2.3794,1.0115 2.5281,0.7136 C2.2987,0.8564 1.9678,0.9461 1.5998,0.9461 C0.9074,0.9461 0.346,0.6284 0.346,0.2366 C0.346,0.1696 0.3622,0.1048 0.393,0.0433 C0.1905,0.1693 0.0672,0.3366 0.0672,0.5203 Z" id="path-103"></path>
+        <path d="M0.0441,0.4607 C0.0441,0.7918 0.5019,1.0602 1.0665,1.0602 C1.5346,1.0602 1.9292,0.8758 2.0504,0.624 C1.8635,0.7447 1.5937,0.8204 1.2937,0.8204 C0.729,0.8204 0.2714,0.5521 0.2714,0.2209 C0.2714,0.1643 0.2847,0.1095 0.3097,0.0577 C0.1447,0.1641 0.0441,0.3055 0.0441,0.4607 Z" id="path-105"></path>
+        <path d="M0.0371,0.3111 C0.0371,0.495 0.3169,0.6441 0.6619,0.6441 C0.948,0.6441 1.1891,0.5415 1.2632,0.4018 C1.149,0.4687 0.9841,0.5109 0.8008,0.5109 C0.4557,0.5109 0.176,0.3617 0.176,0.1778 C0.176,0.1464 0.1842,0.1159 0.1995,0.087 C0.0986,0.1462 0.0371,0.2248 0.0371,0.3111 Z" id="path-107"></path>
+    </defs>
+    <g id="裁剪面板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="airblock">
+            <g id="Page-1" transform="translate(7.200000, 36.800000)">
+                <polygon id="Fill-1" fill="#363636" points="0.54704 11.91766 0.07764 14.84476 6.65024 12.57056 5.46854 9.81616"></polygon>
+                <polygon id="Fill-2" fill="#2A2A2A" points="3.68723 7.29427 6.03503 12.58347 14.90473 15.22707 22.19663 12.30307 20.35673 6.87797 10.68603 4.31347"></polygon>
+                <polygon id="Fill-3" fill="#464646" points="10.92386 4.46737 20.52616 7.10637 20.44376 3.07707 11.04166 1.09317"></polygon>
+                <polygon id="Fill-4" fill="#9A9A9A" points="3.85778 4.40689 3.68668 7.30849 11.00688 4.26699 11.11768 1.09589"></polygon>
+                <path d="M12.83802,13.52901 C16.59082,13.66011 19.69222,12.07151 19.76522,9.98101 C19.83822,7.89041 16.85512,6.08941 13.10242,5.95831 C9.34952,5.82731 6.24812,7.41591 6.17512,9.50641 C6.10212,11.59701 9.08522,13.39801 12.83802,13.52901" id="Fill-5" fill="#FFCF48"></path>
+                <g id="Group-9" transform="translate(6.100000, 5.930400)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <polygon id="Fill-7" fill="#FFCF48" mask="url(#mask-2)" points="-8.6 33.4 44.5304 33.4 44.5304 -19.7304 -8.6 -19.7304"></polygon>
+                </g>
+                <g id="Group-12" transform="translate(6.100000, 5.930400)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-11"></g>
+                    <polygon id="Fill-10" fill="#FFCF48" mask="url(#mask-4)" points="-0.04889 -0.4841 14.07221 0.0091 13.78931 8.1107 -0.33179 7.6176"></polygon>
+                </g>
+                <g id="Group-15" transform="translate(6.000000, 7.730400)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-14"></g>
+                    <polygon id="Fill-13" fill="#656565" mask="url(#mask-6)" points="-0.13259 -0.21731 14.21131 0.28349 13.99911 6.35929 -0.34479 5.85839"></polygon>
+                </g>
+                <g id="Group-18" transform="translate(15.000000, 12.130400)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-17"></g>
+                    <polygon id="Fill-16" fill="#3D3D3D" mask="url(#mask-8)" points="-0.132 -0.46833 17.503 0.14747 17.1947 8.97827 -0.4403 8.36247"></polygon>
+                </g>
+                <g id="Group-21" transform="translate(0.000000, 12.530400)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="Clip-20"></g>
+                    <polygon id="Fill-19" fill="#2A2A2A" mask="url(#mask-10)" points="-0.09367 -0.39172 17.70433 0.22978 17.40813 8.71258 -0.38987 8.09108"></polygon>
+                </g>
+                <g id="Group-24" transform="translate(20.300000, 3.230400)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <g id="Clip-23"></g>
+                    <polygon id="Fill-22" fill="#2A2A2A" mask="url(#mask-12)" points="-0.10041 -0.52258 18.70579 0.13412 18.29999 11.75492 -0.50621 11.09822"></polygon>
+                </g>
+                <g id="Group-27" transform="translate(20.300000, 0.030400)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g id="Clip-26"></g>
+                    <polygon id="Fill-25" fill="#363636" mask="url(#mask-14)" points="-0.13547 -0.5488 9.16043 -0.224 8.88773 7.5828 -0.40807 7.2582"></polygon>
+                </g>
+                <g id="Group-30" transform="translate(28.900000, 0.030400)">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <g id="Clip-29"></g>
+                    <polygon id="Fill-28" fill="#828282" mask="url(#mask-16)" points="-0.10734 -0.2425 9.36996 0.0885 9.16766 5.8804 -0.30964 5.5494"></polygon>
+                </g>
+                <g id="Group-33" transform="translate(31.100000, 10.730400)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="Clip-32"></g>
+                    <polygon id="Fill-31" fill="#2A2A2A" mask="url(#mask-18)" points="-0.11232 -0.47385 17.22468 0.13165 16.88928 9.73825 -0.44782 9.13275"></polygon>
+                </g>
+                <g id="Group-36" transform="translate(25.100000, 18.430400)">
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <g id="Clip-35"></g>
+                    <polygon id="Fill-34" fill="#2A2A2A" mask="url(#mask-20)" points="-0.07839 -0.50588 15.67101 0.04412 15.43871 6.69442 -0.31059 6.14452"></polygon>
+                </g>
+                <g id="Group-39" transform="translate(11.100000, 18.930400)">
+                    <mask id="mask-22" fill="white">
+                        <use xlink:href="#path-21"></use>
+                    </mask>
+                    <g id="Clip-38"></g>
+                    <polygon id="Fill-37" fill="#2A2A2A" mask="url(#mask-22)" points="-0.15295 -0.38269 15.76035 0.17301 15.53305 6.68071 -0.38015 6.12511"></polygon>
+                </g>
+                <g id="Group-42" transform="translate(37.500000, 2.430400)">
+                    <mask id="mask-24" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <g id="Clip-41"></g>
+                    <polygon id="Fill-40" fill="#363636" mask="url(#mask-24)" points="-0.05002 -0.22927 10.74058 0.14763 10.39078 10.16233 -0.39972 9.78553"></polygon>
+                </g>
+                <path d="M29.96424,13.34683 C33.87084,13.48323 37.10654,11.62493 37.19134,9.19623 C37.27624,6.76743 34.17804,4.68793 30.27134,4.55143 C26.36484,4.41503 23.12914,6.27343 23.04424,8.70213 C22.95954,11.13083 26.05774,13.21043 29.96424,13.34683" id="Fill-43" fill="#FFCF48"></path>
+                <g id="Group-47" transform="translate(23.000000, 4.530400)">
+                    <mask id="mask-26" fill="white">
+                        <use xlink:href="#path-25"></use>
+                    </mask>
+                    <g id="Clip-46"></g>
+                    <polygon id="Fill-45" fill="#FFCF48" mask="url(#mask-26)" points="-25.5 34.8 27.6304 34.8 27.6304 -18.3304 -25.5 -18.3304"></polygon>
+                </g>
+                <g id="Group-50" transform="translate(23.000000, 4.530400)">
+                    <mask id="mask-28" fill="white">
+                        <use xlink:href="#path-27"></use>
+                    </mask>
+                    <g id="Clip-49"></g>
+                    <polygon id="Fill-48" fill="#FFCF48" mask="url(#mask-28)" points="-0.05837 -0.50066 14.61973 0.01184 14.29403 9.33814 -0.38407 8.82564"></polygon>
+                </g>
+                <g id="Group-53" transform="translate(22.900000, 6.630400)">
+                    <mask id="mask-30" fill="white">
+                        <use xlink:href="#path-29"></use>
+                    </mask>
+                    <g id="Clip-52"></g>
+                    <polygon id="Fill-51" fill="#4C4C4C" mask="url(#mask-30)" points="-0.16569 -0.28567 14.76501 0.23573 14.51841 7.29823 -0.41229 6.77683"></polygon>
+                </g>
+                <g id="Group-56" transform="translate(2.700000, 13.930400)">
+                    <mask id="mask-32" fill="white">
+                        <use xlink:href="#path-31"></use>
+                    </mask>
+                    <g id="Clip-55"></g>
+                    <polygon id="Fill-54" fill="#9F9F9F" mask="url(#mask-32)" points="0.25706 -0.92746 12.31256 0.76684 11.44306 6.95344 -0.61244 5.25914"></polygon>
+                </g>
+                <path d="M8.15228,19.77359 C11.33608,20.22109 14.09508,19.31669 14.31468,17.75359 C14.53438,16.19049 12.13158,14.56069 8.94778,14.11319 C5.76408,13.66569 3.00508,14.57009 2.78538,16.13319 C2.56568,17.69629 4.96858,19.32619 8.15228,19.77359" id="Fill-57" fill="#FFCF48"></path>
+                <g id="Group-61" transform="translate(2.700000, 13.930400)">
+                    <mask id="mask-34" fill="white">
+                        <use xlink:href="#path-33"></use>
+                    </mask>
+                    <g id="Clip-60"></g>
+                    <polygon id="Fill-59" fill="#FFCF48" mask="url(#mask-34)" points="-5.2 25.4 47.9304 25.4 47.9304 -27.7304 -5.2 -27.7304"></polygon>
+                </g>
+                <g id="Group-64" transform="translate(2.700000, 13.930400)">
+                    <mask id="mask-36" fill="white">
+                        <use xlink:href="#path-35"></use>
+                    </mask>
+                    <g id="Clip-63"></g>
+                    <polygon id="Fill-62" fill="#FFCF48" mask="url(#mask-36)" points="0.25706 -0.92746 12.31256 0.76684 11.44306 6.95344 -0.61244 5.25914"></polygon>
+                </g>
+                <g id="Group-67" transform="translate(2.600000, 14.630400)">
+                    <mask id="mask-38" fill="white">
+                        <use xlink:href="#path-37"></use>
+                    </mask>
+                    <g id="Clip-66"></g>
+                    <polygon id="Fill-65" fill="#656565" mask="url(#mask-38)" points="-0.15973 -0.23093 12.22237 0.20147 12.02837 5.75617 -0.35363 5.32377"></polygon>
+                </g>
+                <path d="M39.10692,18.97716 C42.76032,18.91336 45.69732,17.44996 45.66702,15.70856 C45.63652,13.96716 42.65032,12.60716 38.99682,12.67086 C35.34342,12.73466 32.40652,14.19796 32.43692,15.93956 C32.46732,17.68096 35.45362,19.04096 39.10692,18.97716" id="Fill-68" fill="#FFCF48"></path>
+                <g id="Group-72" transform="translate(32.400000, 12.630400)">
+                    <mask id="mask-40" fill="white">
+                        <use xlink:href="#path-39"></use>
+                    </mask>
+                    <g id="Clip-71"></g>
+                    <polygon id="Fill-70" fill="#FFCF48" mask="url(#mask-40)" points="-34.9 26.7 18.2304 26.7 18.2304 -26.4304 -34.9 -26.4304"></polygon>
+                </g>
+                <g id="Group-75" transform="translate(32.400000, 12.630400)">
+                    <mask id="mask-42" fill="white">
+                        <use xlink:href="#path-41"></use>
+                    </mask>
+                    <g id="Clip-74"></g>
+                    <polygon id="Fill-73" fill="#FFCF48" mask="url(#mask-42)" points="-0.2884 -0.105 13.4728 -0.3452 13.5922 6.4923 -0.1691 6.7324"></polygon>
+                </g>
+                <path d="M33.38201,14.16261 C32.70521,14.67681 32.31741,15.28321 32.32871,15.92711 C32.35951,17.69711 35.39491,19.07941 39.10841,19.01461 C42.82171,18.94981 45.80701,17.46241 45.77611,15.69231 C45.76971,15.32411 45.63331,14.97261 45.38781,14.64751 C44.20391,15.54701 42.13591,16.16411 39.77331,16.20531 C36.83241,16.25661 34.31681,15.40031 33.38201,14.16261" id="Fill-76" fill="#4C4C4C"></path>
+                <g id="Group-81" transform="translate(32.300000, 14.130400)">
+                    <mask id="mask-44" fill="white">
+                        <use xlink:href="#path-43"></use>
+                    </mask>
+                    <g id="Clip-79"></g>
+                    <polygon id="Fill-78" fill="#4C4C4C" mask="url(#mask-44)" points="-34.8 25.2 18.3304 25.2 18.3304 -27.9304 -34.8 -27.9304"></polygon>
+                    <polygon id="Fill-80" fill="#4C4C4C" mask="url(#mask-44)" points="-0.16682 -0.27727 13.79128 0.21023 13.60978 5.40713 -0.34832 4.91973"></polygon>
+                </g>
+                <g id="Group-84" transform="translate(27.600000, 19.430400)">
+                    <mask id="mask-46" fill="white">
+                        <use xlink:href="#path-45"></use>
+                    </mask>
+                    <g id="Clip-83"></g>
+                    <polygon id="Fill-82" fill="#9F9F9F" mask="url(#mask-46)" points="-0.16271 -0.41833 10.72799 -0.03803 10.56169 4.72367 -0.32901 4.34337"></polygon>
+                </g>
+                <path d="M32.78133,23.70035 C35.61133,23.79915 37.94203,22.83255 37.98713,21.54125 C38.03223,20.25005 35.77463,19.12315 32.94463,19.02435 C30.11463,18.92555 27.78393,19.89215 27.73883,21.18345 C27.69373,22.47465 29.95133,23.60155 32.78133,23.70035" id="Fill-85" fill="#FFCF48"></path>
+                <g id="Group-89" transform="translate(27.700000, 18.930400)">
+                    <mask id="mask-48" fill="white">
+                        <use xlink:href="#path-47"></use>
+                    </mask>
+                    <g id="Clip-88"></g>
+                    <polygon id="Fill-87" fill="#FFCF48" mask="url(#mask-48)" points="-30.2 20.4 22.9304 20.4 22.9304 -32.7304 -30.2 -32.7304"></polygon>
+                </g>
+                <g id="Group-92" transform="translate(27.700000, 18.930400)">
+                    <mask id="mask-50" fill="white">
+                        <use xlink:href="#path-49"></use>
+                    </mask>
+                    <g id="Clip-91"></g>
+                    <polygon id="Fill-90" fill="#FFCF48" mask="url(#mask-50)" points="-0.13576 -0.35974 10.64354 0.01666 10.46174 5.22366 -0.31756 4.84726"></polygon>
+                </g>
+                <g id="Group-95" transform="translate(27.500000, 20.530400)">
+                    <mask id="mask-52" fill="white">
+                        <use xlink:href="#path-51"></use>
+                    </mask>
+                    <g id="Clip-94"></g>
+                    <polygon id="Fill-93" fill="#656565" mask="url(#mask-52)" points="-0.21769 -0.27361 10.89581 0.11439 10.77191 3.65929 -0.34139 3.27109"></polygon>
+                </g>
+                <path d="M18.38035,24.08922 C21.08725,24.18372 23.31395,23.33822 23.35355,22.20072 C23.39335,21.06312 21.23115,20.06432 18.52415,19.96982 C15.81725,19.87532 13.59065,20.72082 13.55095,21.85842 C13.51125,22.99582 15.67345,23.99472 18.38035,24.08922" id="Fill-96" fill="#FFCF48"></path>
+                <g id="Group-100" transform="translate(13.500000, 19.930400)">
+                    <mask id="mask-54" fill="white">
+                        <use xlink:href="#path-53"></use>
+                    </mask>
+                    <g id="Clip-99"></g>
+                    <polygon id="Fill-98" fill="#FFCF48" mask="url(#mask-54)" points="-16 19.4 37.1304 19.4 37.1304 -33.7304 -16 -33.7304"></polygon>
+                </g>
+                <g id="Group-103" transform="translate(13.500000, 19.930400)">
+                    <mask id="mask-56" fill="white">
+                        <use xlink:href="#path-55"></use>
+                    </mask>
+                    <g id="Clip-102"></g>
+                    <polygon id="Fill-101" fill="#FFCF48" mask="url(#mask-56)" points="-0.13337 -0.40647 10.20033 -0.04567 10.03793 4.60473 -0.29577 4.24383"></polygon>
+                </g>
+                <g id="Group-106" transform="translate(13.400000, 20.430400)">
+                    <mask id="mask-58" fill="white">
+                        <use xlink:href="#path-57"></use>
+                    </mask>
+                    <g id="Clip-105"></g>
+                    <polygon id="Fill-104" fill="#656565" mask="url(#mask-58)" points="-0.16862 -0.22654 10.38778 0.14216 10.24798 4.14716 -0.30852 3.77856"></polygon>
+                </g>
+                <g id="Group-109" transform="translate(18.900000, 14.630400)">
+                    <mask id="mask-60" fill="white">
+                        <use xlink:href="#path-59"></use>
+                    </mask>
+                    <g id="Clip-108"></g>
+                    <polygon id="Fill-107" fill="#7A7A7A" mask="url(#mask-60)" points="-0.06828 -0.45349 9.23182 -0.12869 9.06482 4.65401 -0.23528 4.32921"></polygon>
+                </g>
+                <g id="Group-112" transform="translate(7.500000, 6.430400)">
+                    <mask id="mask-62" fill="white">
+                        <use xlink:href="#path-61"></use>
+                    </mask>
+                    <g id="Clip-111"></g>
+                    <polygon id="Fill-110" fill="#FD5858" mask="url(#mask-62)" points="-0.12926 -0.44748 11.54124 -0.03998 11.29714 6.94832 -0.37326 6.54082"></polygon>
+                </g>
+                <g id="Group-115" transform="translate(15.400000, 20.730400)">
+                    <mask id="mask-64" fill="white">
+                        <use xlink:href="#path-63"></use>
+                    </mask>
+                    <g id="Clip-114"></g>
+                    <polygon id="Fill-113" fill="#FD5858" mask="url(#mask-64)" points="-0.16667 -0.36682 6.54303 -0.13252 6.42133 3.34888 -0.28827 3.11448"></polygon>
+                </g>
+                <g id="Group-118" transform="translate(34.200000, 12.830400)">
+                    <mask id="mask-66" fill="white">
+                        <use xlink:href="#path-65"></use>
+                    </mask>
+                    <g id="Clip-117"></g>
+                    <polygon id="Fill-116" fill="#FD5858" mask="url(#mask-66)" points="-0.06467 -0.38401 10.04623 -0.03101 9.83333 6.06669 -0.27757 5.71359"></polygon>
+                </g>
+                <g id="Group-121" transform="translate(24.200000, 5.730400)">
+                    <mask id="mask-68" fill="white">
+                        <use xlink:href="#path-67"></use>
+                    </mask>
+                    <g id="Clip-120"></g>
+                    <polygon id="Fill-119" fill="#5C5C5C" mask="url(#mask-68)" points="-0.07551 -0.44016 12.48599 -0.00146 12.24179 6.99374 -0.31981 6.55504"></polygon>
+                </g>
+                <g id="Group-124" transform="translate(3.700000, 14.130400)">
+                    <mask id="mask-70" fill="white">
+                        <use xlink:href="#path-69"></use>
+                    </mask>
+                    <g id="Clip-123"></g>
+                    <polygon id="Fill-122" fill="#5F5F5F" mask="url(#mask-70)" points="0.14281 -0.80476 10.07381 0.41454 9.35741 6.24944 -0.57359 5.02994"></polygon>
+                </g>
+                <g id="Group-127" transform="translate(29.300000, 19.630400)">
+                    <mask id="mask-72" fill="white">
+                        <use xlink:href="#path-71"></use>
+                    </mask>
+                    <g id="Clip-126"></g>
+                    <polygon id="Fill-125" fill="#5F5F5F" mask="url(#mask-72)" points="-0.14152 -0.31701 7.23338 -0.18831 7.15658 4.20549 -0.21832 4.07679"></polygon>
+                </g>
+                <g id="Group-130" transform="translate(28.100000, 19.330400)">
+                    <mask id="mask-74" fill="white">
+                        <use xlink:href="#path-73"></use>
+                    </mask>
+                    <g id="Clip-129"></g>
+                    <polygon id="Fill-128" fill="#2A2A2A" mask="url(#mask-74)" points="-0.15607 -0.26692 5.26363 -0.07762 5.15163 3.12958 -0.26797 2.94028"></polygon>
+                </g>
+                <g id="Group-133" transform="translate(18.400000, 19.630400)">
+                    <mask id="mask-76" fill="white">
+                        <use xlink:href="#path-75"></use>
+                    </mask>
+                    <g id="Clip-132"></g>
+                    <polygon id="Fill-131" fill="#2A2A2A" mask="url(#mask-76)" points="-0.17316 -0.2383 2.92504 -0.1301 2.81934 2.8973 -0.27886 2.7891"></polygon>
+                </g>
+                <g id="Group-136" transform="translate(26.600000, 9.630400)">
+                    <mask id="mask-78" fill="white">
+                        <use xlink:href="#path-77"></use>
+                    </mask>
+                    <g id="Clip-135"></g>
+                    <polygon id="Fill-134" fill="#2A2A2A" mask="url(#mask-78)" points="1.81785 -0.90451 4.63065 0.40719 2.52375 4.92559 -0.28905 3.61399"></polygon>
+                </g>
+                <g id="Group-139" transform="translate(32.000000, 15.330400)">
+                    <mask id="mask-80" fill="white">
+                        <use xlink:href="#path-79"></use>
+                    </mask>
+                    <g id="Clip-138"></g>
+                    <polygon id="Fill-137" fill="#2A2A2A" mask="url(#mask-80)" points="-0.15881 -0.43542 7.18659 -0.17892 7.11249 1.94578 -0.23301 1.68928"></polygon>
+                </g>
+                <g id="Group-142" transform="translate(28.700000, 9.430400)">
+                    <mask id="mask-82" fill="white">
+                        <use xlink:href="#path-81"></use>
+                    </mask>
+                    <g id="Clip-141"></g>
+                    <polygon id="Fill-140" fill="#02F7EC" mask="url(#mask-82)" points="-0.13693 -0.29973 3.29027 -0.18013 3.21267 2.04277 -0.21453 1.92317"></polygon>
+                </g>
+                <g id="Group-145" transform="translate(38.000000, 15.230400)">
+                    <mask id="mask-84" fill="white">
+                        <use xlink:href="#path-83"></use>
+                    </mask>
+                    <g id="Clip-144"></g>
+                    <polygon id="Fill-143" fill="#02F7EC" mask="url(#mask-84)" points="-0.15891 -0.31379 2.71139 -0.21359 2.64619 1.65341 -0.22411 1.55321"></polygon>
+                </g>
+                <g id="Group-148" transform="translate(31.700000, 21.230400)">
+                    <mask id="mask-86" fill="white">
+                        <use xlink:href="#path-85"></use>
+                    </mask>
+                    <g id="Clip-147"></g>
+                    <polygon id="Fill-146" fill="#02F7EC" mask="url(#mask-86)" points="-0.20334 -0.29304 2.10996 -0.21224 2.05656 1.32066 -0.25684 1.23996"></polygon>
+                </g>
+                <g id="Group-151" transform="translate(9.600000, 16.830400)">
+                    <mask id="mask-88" fill="white">
+                        <use xlink:href="#path-87"></use>
+                    </mask>
+                    <g id="Clip-150"></g>
+                    <polygon id="Fill-149" fill="#2A2A2A" mask="url(#mask-88)" points="-0.20592 -0.43723 5.35878 -0.24293 5.29528 1.57597 -0.26942 1.38167"></polygon>
+                </g>
+                <image id="Image-152" x="26.2027743" y="14.1596262" width="8.02926209" height="-7.56368358" xlink:href="data:image/png;base64,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"></image>
+                <image id="Image-153" x="35.9244187" y="18.9072918" width="6.38204421" height="-6.01760643" xlink:href="data:image/png;base64,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"></image>
+                <image id="Image-154" x="30.2673638" y="23.9649483" width="4.6323366" height="-4.36162285" xlink:href="data:image/png;base64,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"></image>
+                <g id="Group-157" transform="translate(28.900000, 10.030400)">
+                    <mask id="mask-90" fill="white">
+                        <use xlink:href="#path-89"></use>
+                    </mask>
+                    <g id="Clip-156"></g>
+                    <polygon id="Fill-155" fill="#15DAD1" mask="url(#mask-90)" points="-0.13361 -0.33532 2.77989 -0.23352 2.71999 1.48348 -0.19351 1.38178"></polygon>
+                </g>
+                <g id="Group-160" transform="translate(38.200000, 15.530400)">
+                    <mask id="mask-92" fill="white">
+                        <use xlink:href="#path-91"></use>
+                    </mask>
+                    <g id="Clip-159"></g>
+                    <polygon id="Fill-158" fill="#15DAD1" mask="url(#mask-92)" points="-0.14777 -0.27199 2.27693 -0.18729 2.22343 1.34571 -0.20127 1.26101"></polygon>
+                </g>
+                <g id="Group-163" transform="translate(31.800000, 21.530400)">
+                    <mask id="mask-94" fill="white">
+                        <use xlink:href="#path-93"></use>
+                    </mask>
+                    <g id="Clip-162"></g>
+                    <polygon id="Fill-161" fill="#15DAD1" mask="url(#mask-94)" points="-0.20363 -0.2552 1.77557 -0.1861 1.73367 1.0129 -0.24543 0.9438"></polygon>
+                </g>
+                <g id="Group-166" transform="translate(12.300000, 10.130400)">
+                    <mask id="mask-96" fill="white">
+                        <use xlink:href="#path-95"></use>
+                    </mask>
+                    <g id="Clip-165"></g>
+                    <polygon id="Fill-164" fill="#2A2A2A" mask="url(#mask-96)" points="3.41829 -1.87155 -0.32781 0.75155 2.70209 5.07875 6.44829 2.45565"></polygon>
+                </g>
+                <g id="Group-169" transform="translate(11.600000, 9.830400)">
+                    <mask id="mask-98" fill="white">
+                        <use xlink:href="#path-97"></use>
+                    </mask>
+                    <g id="Clip-168"></g>
+                    <polygon id="Fill-167" fill="#02F7EC" mask="url(#mask-98)" points="-0.2005 2.037 3.3224 2.037 3.3224 -0.1869 -0.2005 -0.1869"></polygon>
+                </g>
+                <g id="Group-172" transform="translate(7.400000, 16.630400)">
+                    <mask id="mask-100" fill="white">
+                        <use xlink:href="#path-99"></use>
+                    </mask>
+                    <g id="Clip-171"></g>
+                    <polygon id="Fill-170" fill="#02F7EC" mask="url(#mask-100)" points="-0.1679 1.7571 2.8155 1.7571 2.8155 -0.2224 -0.1679 -0.2224"></polygon>
+                </g>
+                <g id="Group-175" transform="translate(17.800000, 21.830400)">
+                    <mask id="mask-102" fill="white">
+                        <use xlink:href="#path-101"></use>
+                    </mask>
+                    <g id="Clip-174"></g>
+                    <polygon id="Fill-173" fill="#02F7EC" mask="url(#mask-102)" points="-0.2158 1.2238 1.7645 1.2238 1.7645 -0.1988 -0.2158 -0.1988"></polygon>
+                </g>
+                <image id="Image-176" x="15.7814688" y="14.3894105" width="-5.28106403" height="-7.09742955" xlink:href="data:image/png;base64,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"></image>
+                <image id="Image-177" x="11.205886" y="20.7539505" width="-4.83869382" height="-6.62318064" xlink:href="data:image/png;base64,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"></image>
+                <image id="Image-178" x="20.4516362" y="25.1234032" width="-3.9760484" height="-5.5707433" xlink:href="data:image/png;base64,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"></image>
+                <g id="Group-181" transform="translate(11.900000, 10.430400)">
+                    <mask id="mask-104" fill="white">
+                        <use xlink:href="#path-103"></use>
+                    </mask>
+                    <g id="Clip-180"></g>
+                    <polygon id="Fill-179" fill="#00C0B7" mask="url(#mask-104)" points="-0.1984 1.4955 2.7938 1.4955 2.7938 -0.2223 -0.1984 -0.2223"></polygon>
+                </g>
+                <g id="Group-184" transform="translate(7.800000, 16.930400)">
+                    <mask id="mask-106" fill="white">
+                        <use xlink:href="#path-105"></use>
+                    </mask>
+                    <g id="Clip-183"></g>
+                    <polygon id="Fill-182" fill="#00C0B7" mask="url(#mask-106)" points="-0.2215 1.3259 2.3161 1.3259 2.3161 -0.208 -0.2215 -0.208"></polygon>
+                </g>
+                <g id="Group-187" transform="translate(17.900000, 22.030400)">
+                    <mask id="mask-108" fill="white">
+                        <use xlink:href="#path-107"></use>
+                    </mask>
+                    <g id="Clip-186"></g>
+                    <polygon id="Fill-185" fill="#15DAD1" mask="url(#mask-108)" points="-0.2285 0.9097 1.5289 0.9097 1.5289 -0.1786 -0.2285 -0.1786"></polygon>
+                </g>
+                <g id="Group-197" transform="translate(47.900000, 3.930400)" fill="#FFCF48">
+                    <path d="M2.08602,2.06062 L24.47582,2.06062 C25.02812,2.06062 25.47582,1.61292 25.47582,1.06062 C25.47582,0.50832 25.02812,0.06062 24.47582,0.06062 L2.08602,0.06062 C1.53382,0.06062 1.08602,0.50832 1.08602,1.06062 C1.08602,1.61292 1.53382,2.06062 2.08602,2.06062" id="Fill-188"></path>
+                    <path d="M3.71151,13.47307 C3.71151,14.02537 4.15931,14.47307 4.71151,14.47307 L35.01811,14.47307 C35.57041,14.47307 36.01811,14.02537 36.01811,13.47307 C36.01811,12.92077 35.57041,12.47307 35.01811,12.47307 L4.71151,12.47307 C4.15931,12.47307 3.71151,12.92077 3.71151,13.47307" id="Fill-190"></path>
+                    <path d="M15.55164,17.55486 L1.01024,17.55486 C0.45794,17.55486 0.01024,18.00256 0.01024,18.55486 C0.01024,19.10716 0.45794,19.55486 1.01024,19.55486 L15.55164,19.55486 C16.10384,19.55486 16.55164,19.10716 16.55164,18.55486 C16.55164,18.00256 16.10384,17.55486 15.55164,17.55486" id="Fill-192"></path>
+                    <g id="Group-196" transform="translate(29.600000, 20.800000)">
+                        <path d="M7.21951,0.00486 L0.78931,0.00486 C0.37511,0.00486 0.03931,0.34066 0.03931,0.75486 C0.03931,1.16906 0.37511,1.50486 0.78931,1.50486 L7.21951,1.50486 C7.63381,1.50486 7.96951,1.16906 7.96951,0.75486 C7.96951,0.34066 7.63381,0.00486 7.21951,0.00486" id="Fill-194"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

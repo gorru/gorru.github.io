@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Loudspeaker</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Loudspeaker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(25.000000, 0.000000)" fill-rule="nonzero">
+            <g>
+                <path d="M60.2974684,114.444444 L9.65822785,114.444444 C4.38607595,114.444444 0.0886075949,110.133333 0.0886075949,104.844444 L0.0886075949,9.95555556 C0.0886075949,4.66666667 4.38607595,0.355555556 9.65822785,0.355555556 L60.2974684,0.355555556 C65.5696203,0.355555556 69.8670886,4.66666667 69.8670886,9.95555556 L69.8670886,104.888889 C69.8670886,110.177778 65.6139241,114.444444 60.2974684,114.444444 Z" id="Shape" fill="#595E80"></path>
+                <ellipse id="Oval" fill="#323E50" cx="35" cy="32.8888889" rx="14.9746835" ry="15.0222222"></ellipse>
+                <ellipse id="Oval" fill="#323E50" cx="35" cy="82.3111111" rx="21.0886076" ry="21.1555556"></ellipse>
+                <ellipse id="Oval" fill="#F6F4D6" cx="35" cy="82.3111111" rx="10.8987342" ry="10.9333333"></ellipse>
+                <ellipse id="Oval" fill="#F6F4D6" cx="35" cy="32.8888889" rx="7.97468354" ry="8"></ellipse>
+                <ellipse id="Oval" fill="#F6F4D6" cx="24.1012658" cy="70.3555556" rx="1.59493671" ry="1.6"></ellipse>
+                <ellipse id="Oval" fill="#F6F4D6" cx="45.8987342" cy="70.3555556" rx="1.59493671" ry="1.6"></ellipse>
+                <ellipse id="Oval" fill="#F6F4D6" cx="24.1012658" cy="94.8444444" rx="1.59493671" ry="1.6"></ellipse>
+                <ellipse id="Oval" fill="#F6F4D6" cx="45.8987342" cy="94.8444444" rx="1.59493671" ry="1.6"></ellipse>
+            </g>
+            <g transform="translate(5.759494, 5.777778)" fill="#323E50" id="Oval">
+                <g>
+                    <ellipse cx="2.87974684" cy="3.06666667" rx="2.87974684" ry="2.88888889"></ellipse>
+                    <ellipse cx="55.6012658" cy="3.06666667" rx="2.87974684" ry="2.88888889"></ellipse>
+                </g>
+                <g transform="translate(0.000000, 97.333333)">
+                    <ellipse cx="2.87974684" cy="2.88888889" rx="2.87974684" ry="2.88888889"></ellipse>
+                    <ellipse cx="55.6012658" cy="2.88888889" rx="2.87974684" ry="2.88888889"></ellipse>
+                </g>
+            </g>
+            <g transform="translate(8.860759, 114.222222)" fill="#323E50" id="Shape">
+                <path d="M7,5.42222222 L2.92405063,5.42222222 C2.17088608,5.42222222 1.50632911,4.88888889 1.32911392,4.17777778 L0.310126582,0.266666667 L9.61392405,0.266666667 L8.59493671,4.17777778 C8.41772152,4.88888889 7.75316456,5.42222222 7,5.42222222 Z"></path>
+                <path d="M49.3544304,5.42222222 L45.278481,5.42222222 C44.5253165,5.42222222 43.8607595,4.88888889 43.6835443,4.17777778 L42.664557,0.266666667 L51.9683544,0.266666667 L50.9493671,4.17777778 C50.7721519,4.88888889 50.1075949,5.42222222 49.3544304,5.42222222 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

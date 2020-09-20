@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Mushroom1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 1.22835 119.636795 1.22835 119.636795 61.5159228 0 61.5159228"></polygon>
+    </defs>
+    <g id="Mushroom1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(0.000000, 11.000000)">
+            <path d="M83.94285,85.1703 C83.94285,95.4048 69.71835,97.7718 59.48385,97.7718 C49.25085,97.7718 35.02785,95.4048 35.02785,85.1703 L40.95735,51.7368 C40.95735,41.5038 49.25085,33.2073 59.48385,33.2073 C69.71835,33.2073 78.01335,41.5038 78.01335,51.7368 L83.94285,85.1703 Z" id="Fill-1" fill="#D5C9B3"></path>
+            <g id="Group-5" transform="translate(0.000000, 0.272400)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M117.2622,53.88435 C105.9837,72.78735 91.6107,49.22385 59.9682,49.22385 C28.3242,49.22385 15.4962,73.44735 2.6727,53.88435 C-10.6128,33.61335 28.3242,1.22835 59.9682,1.22835 C91.6107,1.22835 129.5637,33.26685 117.2622,53.88435" id="Fill-3" fill="#CBBBA0" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

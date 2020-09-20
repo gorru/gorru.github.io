@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Star9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Star9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(0.000000, 33.000000)">
+            <polygon id="Fill-1" fill="#EB7A1E" points="41.624 50.0743 45.493 50.0743 61.075 42.0323 58.04 41.5203"></polygon>
+            <polygon id="Fill-2" fill="#FFB235" points="58.0401 0.0002 49.8321 16.4842 31.4781 19.1272 44.7591 31.9572 41.6241 50.0742 58.0401 41.5212 74.4561 50.0742 71.3201 31.9572 84.6021 19.1272 66.2481 16.4842"></polygon>
+            <polygon id="Fill-3" fill="#FFD48F" points="66.248 16.4834 70.117 16.4834 88.471 19.1274 84.602 19.1274"></polygon>
+            <polygon id="Fill-4" fill="#F0862E" points="71.3203 31.9571 75.1903 31.9571 88.4703 19.1271 84.6013 19.1271"></polygon>
+            <polygon id="Fill-5" fill="#FF9735" points="74.456 50.0743 78.325 50.0743 75.19 31.9573 71.32 31.9573"></polygon>
+            <polygon id="Fill-6" fill="#FFC65C" points="58.0401 0.0002 62.8761 9.7122 62.9151 9.6072 66.4121 9.0432 61.9091 0.0002"></polygon>
+            <polygon id="Fill-7" fill="#FFC65C" points="67.749 11.7276 64.707 13.2206 64.603 13.1806 66.248 16.4836 70.117 16.4836"></polygon>
+            <polygon id="Fill-8" fill="#F0862E" points="66.4121 9.043 65.6171 11.343 61.9751 12.168 62.9151 9.607"></polygon>
+            <polygon id="Fill-9" fill="#FFD48F" points="65.6171 11.3428 67.7491 11.7278 64.7071 13.2208 61.9751 12.1678"></polygon>
+            <polygon id="Fill-10" fill="#EB7A1E" points="6.9543 53.9705 9.6053 53.9705 20.2853 48.4585 18.2053 48.1075"></polygon>
+            <polygon id="Fill-11" fill="#FFB235" points="12.5793 30.9476 0.0003 32.7586 9.1023 41.5536 6.9543 53.9706 18.2053 48.1076 29.4563 53.9706 27.3083 41.5536 36.4103 32.7586 23.8313 30.9476 18.2053 19.6496"></polygon>
+            <polygon id="Fill-12" fill="#FFD48F" points="23.831 30.9473 26.482 30.9473 39.062 32.7593 36.41 32.7593"></polygon>
+            <polygon id="Fill-13" fill="#F0862E" points="27.3076 41.5528 29.9596 41.5528 39.0626 32.7588 36.4106 32.7588"></polygon>
+            <polygon id="Fill-14" fill="#FF9735" points="27.3078 41.5532 29.4558 53.9702 32.1088 53.9702 29.9598 41.5532"></polygon>
+            <polygon id="Fill-15" fill="#FFC65C" points="21.5459 26.2344 23.9429 25.8474 20.8579 19.6494 18.2049 19.6494 21.5199 26.3064"></polygon>
+            <polygon id="Fill-16" fill="#FFC65C" points="24.8593 27.6875 22.7743 28.7105 22.7033 28.6835 23.8313 30.9475 26.4823 30.9475"></polygon>
+            <polygon id="Fill-17" fill="#F0862E" points="23.9433 25.8477 23.3983 27.4237 20.9023 27.9897 21.5463 26.2347"></polygon>
+            <polygon id="Fill-18" fill="#FFD48F" points="23.3984 27.4239 24.8594 27.6879 22.7744 28.7109 20.9024 27.9889"></polygon>
+            <polygon id="Fill-19" fill="#EB7A1E" points="87.8913 53.9705 90.5433 53.9705 101.2233 48.4585 99.1423 48.1075"></polygon>
+            <polygon id="Fill-20" fill="#FFB235" points="93.5172 30.9476 80.9372 32.7586 90.0392 41.5536 87.8912 53.9706 99.1422 48.1076 110.3952 53.9706 108.2452 41.5536 117.3472 32.7586 104.7682 30.9476 99.1422 19.6496"></polygon>
+            <polygon id="Fill-21" fill="#FFD48F" points="104.7681 30.9476 117.3471 32.7586 120.0001 32.7586 107.4201 30.9476"></polygon>
+            <polygon id="Fill-22" fill="#F0862E" points="117.3474 32.7584 108.2444 41.5534 110.8974 41.5534 119.9994 32.7584"></polygon>
+            <polygon id="Fill-23" fill="#FF9735" points="108.2448 41.5532 110.3948 53.9702 113.0458 53.9702 110.8968 41.5532"></polygon>
+            <polygon id="Fill-24" fill="#FFC65C" points="102.4843 26.2344 104.8803 25.8474 101.7953 19.6494 99.1423 19.6494 102.4583 26.3064"></polygon>
+            <polygon id="Fill-25" fill="#FFC65C" points="105.7978 27.6875 103.7128 28.7105 103.6418 28.6835 104.7688 30.9475 107.4208 30.9475"></polygon>
+            <polygon id="Fill-26" fill="#F0862E" points="104.8808 25.8477 104.3368 27.4237 101.8408 27.9897 102.4848 26.2347"></polygon>
+            <polygon id="Fill-27" fill="#FFD48F" points="104.3369 27.4239 105.7979 27.6879 103.7129 28.7109 101.8409 27.9889"></polygon>
+        </g>
+    </g>
+</svg>

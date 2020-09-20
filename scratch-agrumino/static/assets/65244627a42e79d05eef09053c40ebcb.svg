@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Pencil1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pencil1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(56.000000, 0.000000)">
+            <polygon id="Fill-165" fill="#F1AA46" points="0.194769231 113.769231 8.29076923 113.769231 8.29076923 13.4584615 0.194769231 13.4584615"></polygon>
+            <polyline id="Fill-166" fill="#B59469" points="4.24276923 0.048 8.29076923 13.4584615 0.194769231 13.4584615 4.24276923 0.048"></polyline>
+            <path d="M0.194769231,113.769231 L8.29076923,113.769231 L8.29076923,118.449231 C8.29076923,119.283077 7.61446154,119.96 6.78061538,119.96 L1.70492308,119.96 C0.870769231,119.96 0.194769231,119.283077 0.194769231,118.449231 L0.194769231,113.769231" id="Fill-167" fill="#E196B7"></path>
+            <polygon id="Fill-168" fill="#1B1A19" points="0.194769231 113.769231 8.29076923 113.769231 8.29076923 112.821538 0.194769231 112.821538"></polygon>
+            <polygon id="Fill-169" fill="#1B1A19" points="0.194769231 112.021538 8.29076923 112.021538 8.29076923 111.073846 0.194769231 111.073846"></polygon>
+            <polyline id="Fill-170" fill="#1B1A19" points="4.24276923 0.048 3.58430769 2.22923077 4.90092308 2.22923077 4.24276923 0.048"></polyline>
+        </g>
+    </g>
+</svg>

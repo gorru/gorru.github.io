@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy 33</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-Copy-33" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资源-45">
+            <rect id="Rectangle-path" x="0" y="0" width="120" height="120"></rect>
+            <path d="M98.62,22.29 C98.62,14.82 81.33,8.76 60,8.76 C38.67,8.76 21.38,14.82 21.38,22.29 C21.38,27.45 30.76,99.29 30.76,102.4 C30.76,107.28 43.85,111.24 60,111.24 C76.15,111.24 89.24,107.24 89.24,102.4 C89.24,99.63 98.62,27.71 98.62,22.29 Z" id="Shape" fill="#E2F8F8" fill-rule="nonzero"></path>
+            <ellipse id="Oval" stroke="#A2DBE2" stroke-width="5.35731363" cx="60" cy="22.29" rx="38.62" ry="13.52"></ellipse>
+            <path d="M86.48,57.66 C86.48,55.85 77.2,51.42 60,51.42 C42.8,51.42 33.52,55.85 33.52,57.66 L33.33,57.66 C35.39,74.66 38.28,97.29 38.28,98.78 C38.28,102.41 48.01,105.35 60,105.35 C71.99,105.35 81.72,102.41 81.72,98.78 C81.72,97.45 84.63,74.7 86.72,57.66 L86.48,57.66 Z" id="Shape" fill="#EC6729" fill-rule="nonzero"></path>
+            <path d="M98.62,22.29 C98.62,14.82 81.33,8.76 60,8.76 C38.67,8.76 21.38,14.82 21.38,22.29 C21.38,27.45 30.76,99.29 30.76,102.4 C30.76,107.28 43.85,111.24 60,111.24 C76.15,111.24 89.24,107.24 89.24,102.4 C89.24,99.63 98.62,27.71 98.62,22.29 Z" id="Shape" stroke="#A2DBE2" stroke-width="5.35731363"></path>
+        </g>
+    </g>
+</svg>

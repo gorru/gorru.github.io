@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Nut1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Nut1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(4.000000, 0.000000)">
+            <polyline id="Fill-110" fill="#637384" points="108.64 80.764 103.936 86.504 96.016 87.292 108.64 80.764"></polyline>
+            <path d="M30.212,78.956 L27.532,51.96 L49.572,36.14 L74.292,47.316 L76.972,74.312 L54.932,90.132 L30.212,78.956 Z M103.936,86.504 L98.332,30.06 L46.648,6.688 L0.568,39.764 L6.172,96.212 L57.856,119.584 L103.936,86.504 Z" id="Fill-111" fill="#637384"></path>
+            <polyline id="Fill-112" fill="#637384" points="5.272 34.024 0.568 39.764 7.9 40.204 5.272 34.024"></polyline>
+            <path d="M34.916,73.212 L32.24,46.216 L54.276,30.396 L78.996,41.576 L81.676,68.572 L59.636,84.392 L34.916,73.212 Z M108.64,80.764 L103.04,24.32 L51.352,0.948 L5.272,34.024 L10.876,90.468 L62.564,113.84 L108.64,80.764 Z" id="Fill-113" fill="#92A2AD"></path>
+        </g>
+    </g>
+</svg>

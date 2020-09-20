@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Diamond1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Diamond1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(1.000000, 0.000000)">
+            <polygon id="Fill-1" fill="#276CE1" points="59.1768 120 118.6518 29.956 -0.0002 29.76"></polygon>
+            <polygon id="Fill-2" fill="#273FE1" points="59.3253 29.8578 118.6513 29.9558 89.0373 0.2438"></polygon>
+            <polygon id="Fill-3" fill="#27DAE1" points="0 29.7597 59.325 29.8577 29.712 0.1457"></polygon>
+            <polygon id="Fill-4" fill="#27AAE1" points="29.7117 0.0003 59.3267 29.7123 89.0377 0.0973"></polygon>
+            <polygon id="Fill-5" fill="#27AAE1" points="58.9716 119.8353 59.1206 29.8683 -0.0004 29.7703"></polygon>
+        </g>
+    </g>
+</svg>

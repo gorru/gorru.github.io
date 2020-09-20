@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Star10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.7712 0.334 85 0.334 85 76.9774 0.7712 76.9774"></polygon>
+    </defs>
+    <g id="Star10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(0.000000, 2.000000)">
+            <polygon id="Fill-1" fill="#FFC92A" points="59.3577 0.9997 41.3737 38.8387 35.7717 39.7437 0.0007 45.4817 30.4367 74.2787 23.9647 115.6657 60.7647 95.6277 98.1257 114.5767 91.1287 77.1177 90.4307 73.3867 119.9997 43.6957 119.9997 43.6947 78.4547 38.2877"></polygon>
+            <polygon id="Fill-2" fill="#FDE321" points="83.1519 71.1374 88.9869 102.3764 60.6469 88.0054 32.7379 103.2094 37.6469 71.8134 14.5649 49.9714 45.9429 44.9364 59.5809 16.2354 74.0659 44.5194 105.5769 48.6224"></polygon>
+            <g id="Group-5" transform="translate(35.000000, 0.666000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M55.4312,72.7204 L56.1282,76.4514 C53.9142,76.7824 51.6632,76.9524 49.3642,76.9774 L48.9352,76.9774 C27.9792,76.9774 10.0562,63.9604 2.8142,45.5744 C1.9942,43.4694 1.2972,41.3044 0.7712,39.0774 L6.3732,38.1724 L24.3582,0.3334 L43.4542,37.6214 L85.0002,43.0294 L55.4312,72.7204 Z" id="Fill-3" fill="#FFFFFF" opacity="0.5" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

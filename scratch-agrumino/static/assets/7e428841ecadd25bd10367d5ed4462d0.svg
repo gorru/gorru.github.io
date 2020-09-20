@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Historic building20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.000244897959 0.73051875 119.325306 0.73051875 119.325306 10.9680187 0.000244897959 10.9680187"></polygon>
+        <polygon id="path-3" points="1.10204082 0.0999375 111.237551 0.0999375 111.237551 43.0703812 1.10204082 43.0703812"></polygon>
+        <polygon id="path-5" points="0 77.9004281 119.325306 77.9004281 119.325306 1.21911563 0 1.21911563"></polygon>
+    </defs>
+    <g id="Historic-building20" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(0.000000, 21.000000)">
+            <g id="Group-3" transform="translate(0.000000, 66.931678)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M119.325551,5.84926875 C119.325551,8.67676875 92.6133061,10.9680187 59.6622857,10.9680187 C26.7124898,10.9680187 0.000244897959,8.67676875 0.000244897959,5.84926875 C0.000244897959,3.0229875 26.7124898,0.73051875 59.6622857,0.73051875 C92.6133061,0.73051875 119.325551,3.0229875 119.325551,5.84926875" id="Fill-1" fill="#284969" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#B01A2C" points="98.6886122 65.2767375 98.6886122 40.6226438 20.7020816 40.6226438 20.7020816 65.2767375 13.1898367 65.2767375 13.1898367 69.51555 106.450653 69.51555 106.450653 65.2767375"></polygon>
+            <g id="Group-8" transform="translate(3.673469, 1.119178)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-7"></g>
+                <path d="M111.07102,37.5153187 L99.6367347,22.0371937 L99.6367347,5.3220375 C99.6367347,2.438475 97.2869388,0.09969375 94.3885714,0.09969375 L17.9510204,0.09969375 C15.0538776,0.09969375 12.7040816,2.438475 12.7040816,5.3220375 L12.7040816,21.82635 L1.11306122,37.5153187 L1.10204082,43.0703812 L111.237551,43.0703812 L111.07102,37.5153187 Z" id="Fill-6" fill="#CC1F33" mask="url(#mask-4)"></path>
+            </g>
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Clip-10"></g>
+            <polygon id="Fill-9" fill="#FFFFFF" mask="url(#mask-6)" points="26.0302041 57.6935531 40.8318367 57.6935531 40.8318367 48.7479281 26.0302041 48.7479281"></polygon>
+            <polygon id="Fill-11" fill="#FFFFFF" mask="url(#mask-6)" points="52.2281633 69.4447406 67.0297959 69.4447406 67.0297959 48.7491469 52.2281633 48.7491469"></polygon>
+            <polygon id="Fill-12" fill="#FFFFFF" mask="url(#mask-6)" points="78.424898 57.6935531 93.2265306 57.6935531 93.2265306 48.7479281 78.424898 48.7479281"></polygon>
+        </g>
+    </g>
+</svg>

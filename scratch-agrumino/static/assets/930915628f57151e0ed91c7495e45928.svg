@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Corn1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 16.78 73.9 16.78 73.9 100 0 100"></polygon>
+        <polygon id="path-3" points="0 16.78 73.9 16.78 73.9 99.998 0 99.998"></polygon>
+    </defs>
+    <g id="Corn1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(20.000000, 0.000000)">
+            <g id="Group-3" transform="translate(0.000000, 3.221800)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M12.054,100 C12.054,100 -28.006,16.78 37.914,16.78 C103.834,16.78 59.034,100 59.034,100 L12.054,100 Z" id="Fill-1" fill="#FEDE3D" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M22.406,103.2218 C22.406,103.2218 5.326,58.7218 36.966,58.7218 C68.586,58.7218 47.406,103.2218 47.406,103.2218 L22.406,103.2218 Z" id="Fill-4" fill="#FCEEB6"></path>
+            <g id="Group-8" transform="translate(0.000000, 3.221800)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-7"></g>
+                <path d="M37.914,16.778 C-28.006,16.778 12.054,99.998 12.054,99.998 C12.054,99.998 -5.886,27.958 36.954,27.958 C79.794,27.958 59.034,99.998 59.034,99.998 C59.034,99.998 103.834,16.778 37.914,16.778" id="Fill-6" fill="#EFC822" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

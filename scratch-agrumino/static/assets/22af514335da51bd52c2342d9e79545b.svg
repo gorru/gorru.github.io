@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Metronome1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Metronome1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-33" transform="translate(29.000000, 0.000000)">
+            <polygon id="Fill-812" fill="#1E597E" points="22 5 32 0 42 5"></polygon>
+            <polygon id="Fill-813" fill="#1E597E" points="7 115 9.49973333 120 14.5002667 120 17 115"></polygon>
+            <polygon id="Fill-814" fill="#1E597E" points="47 115 49.4997333 120 54.5002667 120 57 115"></polygon>
+            <polygon id="Fill-816" fill="#000000" points="26 12 36 12 36 7 26 7"></polygon>
+            <path d="M32,8 C32,8.5524744 31.5523789,9 30.9997866,9 C30.4471944,9 30,8.5524744 30,8 C30,7.4475256 30.4471944,7 30.9997866,7 C31.5523789,7 32,7.4475256 32,8" id="Fill-817" fill="#1E597E"></path>
+            <polygon id="Fill-818" fill="#A6DAE8" points="29 18 34 18 34 17 29 17"></polygon>
+            <polygon id="Fill-819" fill="#A6DAE8" points="29 23 34 23 34 22 29 22"></polygon>
+            <path d="M2.04102355,112.0528 L21.5016624,5 L41.4982087,5 L60.9588475,112.0528 C61.2382659,113.587733 60.0592695,115 58.5000722,115 L4.49979888,115 C2.94060151,115 1.76213839,113.587733 2.04102355,112.0528" id="Fill-810" fill="#5892CD"></path>
+            <polygon id="Fill-811" fill="#1E597E" points="52 79 10 79 23.1202863 7 38.8797137 7"></polygon>
+            <polygon id="Fill-815" fill="#FFFFFF" points="29 79 34 79 34 7 29 7"></polygon>
+            <polygon id="Fill-820" fill="#A6DAE8" points="29 28 34 28 34 27 29 27"></polygon>
+            <polygon id="Fill-821" fill="#A6DAE8" points="29 33 34 33 34 32 29 32"></polygon>
+            <polygon id="Fill-822" fill="#A6DAE8" points="29 38 34 38 34 37 29 37"></polygon>
+            <polygon id="Fill-823" fill="#A6DAE8" points="29 43 34 43 34 42 29 42"></polygon>
+            <polygon id="Fill-824" fill="#A6DAE8" points="29 48 34 48 34 47 29 47"></polygon>
+            <polygon id="Fill-825" fill="#A6DAE8" points="29 53 34 53 34 52 29 52"></polygon>
+            <polygon id="Fill-826" fill="#A6DAE8" points="29 58 34 58 34 57 29 57"></polygon>
+            <polygon id="Fill-827" fill="#A6DAE8" points="29 62 34 62 34 61 29 61"></polygon>
+            <polygon id="Fill-828" fill="#A6DAE8" points="29 68 34 68 34 67 29 67"></polygon>
+            <polygon id="Fill-829" fill="#A6DAE8" points="29 73 34 73 34 72 29 72"></polygon>
+            <polygon id="Fill-830" fill="#FF3636" points="33 80 30.1144902 80 0 27.2576982 2.16426504 26"></polygon>
+            <path d="M10,45.1323044 L13.889723,52 L16,50.7579475 L12.1718871,44 C11.4491328,44.3767313 10.7232721,44.7513521 10,45.1323044" id="Fill-831" fill="#A6DAE8"></path>
+            <polygon id="Fill-832" fill="#000000" points="5 43.8347587 13.2870001 39 16 48.5823628 11.8565 51"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Diamond2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Diamond2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(0.000000, 11.000000)">
+            <polygon id="Fill-1" fill="#FFFFFF" points="91.1116 0.0001 28.4036 0.4241 -0.0004 33.4961 60.2096 97.9551 119.9996 33.9241 91.2456 0.0001"></polygon>
+            <polygon id="Fill-2" fill="#774111" points="31.1823 4.9976 88.4543 4.5916 114.4043 35.1996 60.5733 92.5946 5.5433 34.8426"></polygon>
+            <polygon id="Fill-3" fill="#F7A6C5" points="32.1833 5.6421 87.8233 5.6421 112.8693 34.8221 60.5663 91.7331 7.7023 34.8221"></polygon>
+            <path d="M111.6628,32.9312 L88.1218,5.5502 L64.5648,5.5502 L87.9048,32.9312 L111.6628,32.9312 Z M67.5578,84.2722 L111.3758,37.2082 L88.2988,37.2082 L67.5578,84.2722 Z M83.6008,37.2082 L36.4118,37.2082 L59.8728,88.8272 L60.0168,89.1512 L82.3728,39.9252 L83.6008,37.2082 Z M8.6308,37.2082 L52.8888,83.7782 L31.7228,37.2082 L8.6308,37.2082 Z M37.7488,32.9312 L82.2638,32.9312 L70.1678,18.8542 L60.0078,7.0522 L44.6698,24.8872 L37.7488,32.9312 Z M53.1758,8.4382 L55.2088,5.5502 L31.6428,5.5502 L8.3438,32.9312 L32.1068,32.9312 L53.1758,8.4382 Z" id="Fill-4" fill="#EB008B"></path>
+        </g>
+    </g>
+</svg>

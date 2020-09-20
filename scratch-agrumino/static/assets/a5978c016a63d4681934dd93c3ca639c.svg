@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Red bean</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="4.58749937e-05 0.245065342 119.981345 0.245065342 119.981345 86.4971098 4.58749937e-05 86.4971098"></polygon>
+    </defs>
+    <g id="Red-bean" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(60.000000, 60.500000) scale(-1, 1) translate(-60.000000, -60.500000) translate(0.000000, 17.000000)">
+            <g id="Group-3" transform="translate(0.000000, 0.257983)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M103.334622,1.54865029 C133.718824,12.9667717 116.488235,54.4818642 99.1517647,69.2034711 C78.3332773,86.8820723 41.6278992,93.440263 18.6635294,77.2180318 C3.40033613,66.4350607 -10.7934454,43.9136272 11.7247059,31.4600549 C26.0072269,23.561159 40.0356303,38.3612168 54.4003361,32.0831358 C70.3794958,25.0989971 81.907563,-6.50362717 103.334622,1.54865029" id="Fill-1" fill="#B23031" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M65.4545042,44.4069121 C70.0054286,41.5303803 75.3212269,34.9425191 67.9805546,33.8527561 C63.3242521,33.161785 58.0699664,38.3938543 53.3007227,38.6221665 C46.6245882,38.9374786 41.3420672,40.2998081 48.8955126,45.131074 C53.8336639,48.2897272 60.6358487,47.4519121 65.4545042,44.4069121" id="Fill-4" fill="#FCD73F"></path>
+        </g>
+    </g>
+</svg>

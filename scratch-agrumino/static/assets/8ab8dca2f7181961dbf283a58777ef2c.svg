@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Leaf1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Leaf1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(10.000000, 10.000000)">
+            <path d="M99.2742056,0.17046729 C99.2742056,0.17046729 23.3321495,-4.30990654 14.3115888,83.3218692 C93.4143925,77.1891589 99.2742056,0.17046729 99.2742056,0.17046729" id="Fill-93" fill="#067CAF"></path>
+            <path d="M84.3117757,13.6798131 C84.3117757,13.6798131 39.5678505,53.5657944 0.117383178,99.7807477" id="Stroke-95" stroke="#7AB8E3" stroke-width="4.55" stroke-linecap="round"></path>
+            <polyline id="Stroke-97" stroke="#7AB8E3" stroke-width="4.55" stroke-linecap="round" points="81.3364486 31.9097196 65.6224299 31.7508411 66.2373832 15.0143925"></polyline>
+            <path d="M69.8805607,51.833271 C69.8805607,51.833271 47.8861682,49.5865421 46.9590654,48.7024299 C46.0338318,47.8201869 46.5347664,28.5828037 46.5347664,28.5828037" id="Stroke-99" stroke="#7AB8E3" stroke-width="4.55" stroke-linecap="round"></path>
+            <path d="M26.8990654,53.866729 C26.8990654,53.866729 27.5626168,63.9153271 28.5757009,68.4181308 C36.6915888,69.3433645 42.6186916,70.0013084 42.6186916,70.0013084" id="Stroke-101" stroke="#7AB8E3" stroke-width="4.55" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

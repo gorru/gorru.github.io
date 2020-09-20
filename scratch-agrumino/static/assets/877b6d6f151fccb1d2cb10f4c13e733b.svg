@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Triangle2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 8.000000)">
+            <polygon id="Stroke-376" stroke="#FF5F2E" stroke-width="4.07407407" stroke-linecap="round" stroke-linejoin="round" points="49.6895161 12.5936963 74.5346774 56.0714 99.3790323 99.5507333 49.6895161 99.5507333 0 99.5507333 24.8451613 56.0714"></polygon>
+            <path d="M37.3509677,109.433296 L86.1420968,31.3683333" id="Stroke-377" stroke="#004E66" stroke-width="3.25925926" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M84.1829839,23.4083259 C88.5337903,22.3148444 92.9378226,24.9923259 94.0208871,29.3882519 C95.1031452,33.7841778 92.4531452,38.2346963 88.1023387,39.3281778 C83.7507258,40.4216593 79.3466935,37.7449926 78.2644355,33.3482519 C77.1821774,28.9523259 79.831371,24.5018074 84.1829839,23.4083259" id="Fill-378" fill="#FCBE32"></path>
+            <polygon id="Fill-379" fill="#FF5F2E" points="49.6895161 12.4886667 44.3806452 6.24392593 39.0709677 0 49.6895161 0 60.3080645 0 54.9983871 6.24392593"></polygon>
+            <polygon id="Stroke-380" stroke="#FF5F2E" stroke-width="0.814814815" points="49.6895161 12.4886667 44.3806452 6.24392593 39.0709677 0 49.6895161 0 60.3080645 0 54.9983871 6.24392593"></polygon>
+        </g>
+    </g>
+</svg>

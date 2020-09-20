@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="360px" viewBox="0 0 480 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Desert3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desert3" fill-rule="nonzero">
+            <g id="温度计-热-copy-2" transform="translate(-14.000000, -4.357716)">
+                <rect id="Path" fill="#FFCBB0" x="11.6537344" y="0" width="484.863289" height="363.647467"></rect>
+                <rect id="Path-Copy-2" fill="#FFFFFF" x="11.6537344" y="0" width="484.863289" height="363.647467"></rect>
+                <rect id="Path-Copy-3" fill="#FFB764" x="11.6537344" y="0" width="484.863289" height="363.647467"></rect>
+                <rect id="Path-Copy-4" fill="#FFD994" x="11.6537344" y="245.982889" width="484.863289" height="118.374826"></rect>
+                <polygon id="Rectangle-27" fill="#FFC788" points="421.342186 160.042765 496.542907 160.042765 496.542907 203.604702 411.642273 203.604702"></polygon>
+                <g id="Group-3" transform="translate(251.672515, 189.290055) scale(-1, 1) translate(-251.672515, -189.290055) translate(0.672515, 133.290055)">
+                    <polygon id="Rectangle-27-Copy-2" fill="#FFC788" points="398.47555 0 501.461649 0 501.461649 43.5619361 385.191685 43.5619361"></polygon>
+                    <polygon id="Rectangle-27-Copy-3" fill="#FFD9AE" points="358.842067 33.8552004 501.461649 33.8552004 501.461649 111.929407 340.446001 111.929407"></polygon>
+                    <polygon id="Rectangle-27-Copy" fill="#FFA745" transform="translate(61.554910, 90.201618) scale(-1, 1) translate(-61.554910, -90.201618) " points="14.0653184 68.4206497 123.10982 68.4206497 123.10982 111.982586 0 111.982586"></polygon>
+                    <polygon id="Rectangle-27-Copy-3" fill="#FFA745" points="354.580573 33.8552004 497.200155 33.8552004 497.200155 111.929407 336.184507 111.929407"></polygon>
+                </g>
+                <g id="Group-4" transform="translate(441.638836, 141.662821) scale(-1, 1) translate(-441.638836, -141.662821) translate(428.138836, 122.162821)" fill="#FFD9AE">
+                    <rect id="Rectangle-28" x="7.15549098" y="0" width="10.1802351" height="38.1166941" rx="5.09011754"></rect>
+                    <g id="Group-25" transform="translate(9.167863, 10.805667)">
+                        <rect id="Rectangle-28-Copy-2" x="10.6537344" y="0" width="5.56361684" height="16.149129" rx="2.78180842"></rect>
+                        <rect id="Rectangle-28-Copy-3" transform="translate(8.108676, 13.299283) rotate(90.000000) translate(-8.108676, -13.299283) " x="5.32686724" y="5.22471824" width="5.56361684" height="16.149129" rx="2.78180842"></rect>
+                    </g>
+                    <g id="Group-25-Copy-2" transform="translate(6.810982, 25.380232) scale(-1, 1) translate(-6.810982, -25.380232) translate(0.310982, 18.880232)">
+                        <rect id="Rectangle-28-Copy-2" x="8.0494882" y="0" width="4.26149375" height="12.2305903" rx="2.13074688"></rect>
+                        <rect id="Rectangle-28-Copy-3" transform="translate(6.155491, 10.033834) rotate(90.000000) translate(-6.155491, -10.033834) " x="4.02474411" y="3.91853867" width="4.26149375" height="12.2305903" rx="2.13074688"></rect>
+                    </g>
+                </g>
+                <g id="Group-4-Copy" transform="translate(146.548035, 196.028713)" fill="#FFD9AE">
+                    <rect id="Rectangle-28" x="11.4169847" y="0" width="17.2827247" height="49.9541768" rx="8.64136233"></rect>
+                    <g id="Group-25" transform="translate(14.968230, 3.551245)">
+                        <rect id="Rectangle-28-Copy-2" x="18.1968894" y="0" width="9.50282" height="27.4629597" rx="4.75141"></rect>
+                        <rect id="Rectangle-28-Copy-3" transform="translate(13.849855, 22.616555) rotate(90.000000) translate(-13.849855, -22.616555) " x="9.09844474" y="8.88507525" width="9.50282" height="27.4629597" rx="4.75141"></rect>
+                    </g>
+                    <g id="Group-25-Copy-2" transform="translate(11.070719, 27.782725) scale(-1, 1) translate(-11.070719, -27.782725) translate(0.070719, 17.282725)">
+                        <rect id="Rectangle-28-Copy-2" x="13.7770087" y="0" width="7.29371046" height="20.8339695" rx="3.64685523"></rect>
+                        <rect id="Rectangle-28-Copy-3" transform="translate(10.535360, 17.091946) rotate(90.000000) translate(-10.535360, -17.091946) " x="6.88850437" y="6.67496113" width="7.29371046" height="20.8339695" rx="3.64685523"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

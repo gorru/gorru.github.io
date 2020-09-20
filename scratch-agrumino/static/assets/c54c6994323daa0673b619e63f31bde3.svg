@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Game element4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0004 0 96.723 0 96.723 112.197 0.0004 112.197"></polygon>
+    </defs>
+    <g id="Game-element4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(12.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M58.8564,56.0966 L96.7234,94.7856 C86.5034,105.5106 72.0824,112.1976 56.0984,112.1976 C25.1174,112.1976 0.0004,87.0796 0.0004,56.0966 C0.0004,25.1156 25.1174,-0.0004 56.0984,-0.0004 C69.9734,-0.0004 82.6694,5.0336 92.4604,13.3776 L58.8564,56.0966 Z" id="Fill-1" fill="#EDCD00" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

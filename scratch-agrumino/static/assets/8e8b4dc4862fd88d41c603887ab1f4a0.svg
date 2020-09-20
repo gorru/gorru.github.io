@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Leaf38</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.000774775024 0.303529412 37.3775867 0.303529412 37.3775867 69.384 0.000774775024 69.384"></polygon>
+        <polygon id="path-3" points="1.23494118 0.303529412 20.802 0.303529412 20.802 59.2584706 1.23494118 59.2584706"></polygon>
+        <polygon id="path-5" points="0.862588235 2.57796087 65.2764706 2.57796087 65.2764706 7.14074885 0.862588235 7.14074885"></polygon>
+    </defs>
+    <g id="Leaf38" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, -1.000000)">
+            <g id="Group-3" transform="translate(0.000000, 3.226588)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M31.3898824,0.302823529 C-6.98894118,12.8922353 -2.81011765,48.2428235 5.82988235,69.384 C33.3804706,61.6263529 45.6487059,22.4075294 31.3898824,0.302823529" id="Fill-1" fill="#849F28" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-6" transform="translate(10.588235, 3.226588)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <path d="M1.23494118,59.2584706 C3.55023529,49.0655294 6.78670588,39.2467059 10.0584706,29.4455294 C13.4255294,19.6690588 16.8384706,9.96317647 20.802,0.303176471 C19.5349412,10.6867059 16.6831765,20.742 13.3972941,30.582 C10.002,40.3937647 6.15141176,50.0396471 1.23494118,59.2584706" id="Fill-4" fill="#627712" mask="url(#mask-4)"></path>
+            </g>
+            <path d="M113.528118,96.2625882 C97.0775294,75.0684706 50.7292941,78.8837647 37.1375294,102.520235 C57.174,127.384941 105.170471,125.214353 113.528118,96.2625882" id="Fill-7" fill="#849F28"></path>
+            <g id="Group-11" transform="translate(49.411765, 94.991294)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <path d="M0.862588235,6.96882353 C11.4508235,4.65705882 22.1767059,3.49235294 32.9414118,2.87470588 C43.7096471,2.35588235 54.5378824,2.40882353 65.2778824,3.91941176 C54.5167059,5.20058824 43.8331765,5.78647059 33.1249412,6.39705882 C22.4131765,6.89470588 11.6943529,7.42058824 0.862588235,6.96882353" id="Fill-9" fill="#627712" mask="url(#mask-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

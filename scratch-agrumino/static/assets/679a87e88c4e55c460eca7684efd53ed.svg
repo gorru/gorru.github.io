@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Phone1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Phone1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(32.000000, 8.000000)">
+            <path d="M56,96.742 C56,100.75 52.751,104 48.742,104 L7.258,104 C3.249,104 0,100.75 0,96.742 L0,7.258 C0,3.249 3.249,0 7.258,0 L48.742,0 C52.751,0 56,3.249 56,7.258 L56,96.742" id="Fill-218" fill="#272D2E"></path>
+            <polygon id="Fill-219" fill="#A9D6C4" points="6 81 50 81 50 16 6 16"></polygon>
+            <path d="M36,9.178 C36,10.736 34.737,12 33.179,12 L20.821,12 C19.263,12 18,10.736 18,9.178 L18,8.822 C18,7.264 19.263,6 20.821,6 L33.179,6 C34.737,6 36,7.264 36,8.822 L36,9.178" id="Fill-221" fill="#9BA09E"></path>
+            <path d="M34.903,93.451 C34.903,97.014 32.014,99.903 28.451,99.903 C24.89,99.903 22,97.014 22,93.451 C22,89.888 24.89,87 28.451,87 C32.014,87 34.903,89.888 34.903,93.451" id="Fill-222" fill="#9BA09E"></path>
+        </g>
+    </g>
+</svg>
